@@ -25,23 +25,23 @@ Self-onboarded into the blockchain domain through extensive research and laid th
 
 Documentation impact:
 
-- Launched a developer documentation site that achieved over 15,000 monthly views.
-- Created an end-user documentation site for a blockchain that reached over 8,000 monthly users.
-- Developed comprehensive documentation for over 10 products, APIs, and SDKs using docs-as-code.
+* Launched a developer documentation site that achieved over 15,000 monthly views.
+* Created an end-user documentation site for a blockchain that reached over 8,000 monthly users.
+* Developed comprehensive documentation for over 10 products, APIs, and SDKs using docs-as-code.
 
 Scalable documentation processes:
 
-- Automated workflows and educated engineers, enabling them to independently document two critical APIs.
-- Ensured clear, standardized information architecture using the Diátaxis framework.
+* Automated workflows and educated engineers, enabling them to independently document two critical APIs.
+* Ensured clear, standardized information architecture using the Diátaxis framework.
 
 Cross-functional contributions:
 
-- Reviewed and updated UI microcopy for the Ronin web app in collaboration with UX designers.
-- Applied the Business Model Canvas to identify ways developer documentation could reduce integration timelines.
+* Reviewed and updated UI microcopy for the Ronin web app in collaboration with UX designers.
+* Applied the Business Model Canvas to identify ways developer documentation could reduce integration timelines.
 
 Client engagement:
 
-- Worked directly with game studios as an integration manager, improving documentation, reducing integration timelines, and driving client satisfaction.
+* Worked directly with game studios as an integration manager, improving documentation, reducing integration timelines, and driving client satisfaction.
 
 ### Senior technical writer | Ninja Van (Apr 2021 - Jan 2023) | Ho Chi Minh City, Vietnam
 
@@ -49,11 +49,11 @@ Led the documentation function, overseeing contributions from over 200 engineers
 
 #### Achievements
 
-- Rewrote and expanded the company’s API documentation site, reducing support requests by 20%.
-- Developed a style guide and implemented documentation guidelines, increasing perceived documentation quality by 20% based on quarterly surveys.
-- Reduced onboarding time for QA engineers from two weeks to two days by creating comprehensive tutorials.
-- Improved documentation coverage for microservices from 40% to 80% in a year.
-- Established a “wiki warden” model, appointing documentation representatives for engineering teams, leading to a 10% increase in documentation accuracy.
+* Rewrote and expanded the company’s API documentation site, reducing support requests by 20%.
+* Developed a style guide and implemented documentation guidelines, increasing perceived documentation quality by 20% based on quarterly surveys.
+* Reduced onboarding time for QA engineers from two weeks to two days by creating comprehensive tutorials.
+* Improved documentation coverage for microservices from 40% to 80% in a year.
+* Established a “wiki warden” model, appointing documentation representatives for engineering teams, leading to a 10% increase in documentation accuracy.
 
 ### Senior technical writer | Lazada Group (Sep 2018 - Apr 2021) | Ho Chi Minh City
 
@@ -61,11 +61,11 @@ Worked with logistics technology and cybersecurity teams, creating documentation
 
 #### Achievements
 
-- Developed a centralized architecture diagram, establishing a single source of truth for system connectivity.
-- Created a company-wide glossary and implemented a chatbot for retrieving definitions, increasing efficiency by 30%.
-- Standardized API specifications for 30+ services and set API documentation standards.
-- Migrated documentation from Confluence to Yuque, improving accessibility.
-- Created onboarding documentation for new employees and developer guidelines to streamline onboarding.
+* Developed a centralized architecture diagram, establishing a single source of truth for system connectivity.
+* Created a company-wide glossary and implemented a chatbot for retrieving definitions, increasing efficiency by 30%.
+* Standardized API specifications for 30+ services and set API documentation standards.
+* Migrated documentation from Confluence to Yuque, improving accessibility.
+* Created onboarding documentation for new employees and developer guidelines to streamline onboarding.
 
 ### Senior technical writer | Lazada Group (Jan 2017 - Sep 2018) | Singapore
 
@@ -73,9 +73,9 @@ Documented information security and access management systems, contributing to i
 
 #### Achievements
 
-- Developed user documentation that increased adoption of the BlackBerry UEM mobility management platform.
-- Designed a SharePoint site and knowledge base for a Google Docs to Office 365 migration project.
-- Created a developer documentation set for an invoice management system, including 10 data flow diagrams, five sequence diagrams, and three context diagrams.
+* Developed user documentation that increased adoption of the BlackBerry UEM mobility management platform.
+* Designed a SharePoint site and knowledge base for a Google Docs to Office 365 migration project.
+* Created a developer documentation set for an invoice management system, including 10 data flow diagrams, five sequence diagrams, and three context diagrams.
 
 ### Technical writer | Lazada Group (Jul 2015 - Jan 2017) | Ho Chi Minh City
 
@@ -83,10 +83,10 @@ Independently established a technical writing workflow and documented key proces
 
 #### Achievements
 
-- Developed administrator documentation for backend engine and order management systems.
-- Created a system architecture diagram by coordinating with developers and tech leads.
-- Led presentations on the impact of technical writing in software development, improving project efficiency.
-- Developed onboarding documentation, reducing training time from two weeks to three days.
+* Developed administrator documentation for backend engine and order management systems.
+* Created a system architecture diagram by coordinating with developers and tech leads.
+* Led presentations on the impact of technical writing in software development, improving project efficiency.
+* Developed onboarding documentation, reducing training time from two weeks to three days.
 
 ### Technical writer | Lintelus Inc. (Sep 2014 - Aug 2015) | Remote (USA)
 
@@ -106,15 +106,15 @@ Translated over 10 projects from English to Russian for a major hotel chain in D
 
 ## Certifications
 
-- **Prompt engineering for ChatGPT** (Dec 2024) – Coursera (Credential ID: HU01LBWUWN7G)
-- **Back-end Python developer professional training** (Apr 2021) – Yandex School of Data Analysis
-- **Snagit certification** (Apr 2020) – TechSmith (Credential ID: j5tzccby8bnp)
+* **Prompt engineering for ChatGPT** (Dec 2024) – Coursera (Credential ID: HU01LBWUWN7G)
+* **Back-end Python developer professional training** (Apr 2021) – Yandex School of Data Analysis
+* **Snagit certification** (Apr 2020) – TechSmith (Credential ID: j5tzccby8bnp)
 
 ## Languages
 
-- English
-- Russian
-- Vietnamese
+* English
+* Russian
+* Vietnamese
 
 ## Skills
 
@@ -130,6 +130,8 @@ Specialized in the theory and methods of teaching foreign languages (English).
 
 ## References
 
-- **Arturo Locsin** (Head of Tech Lab at Ninja Van) – [arturo.locsin@ninjavan.co](mailto:arturo.locsin@ninjavan.co)
-- **Quy Dau ("Bean")** (Product Manager at Sky Mavis) – [bean@skymavis.com](mailto:bean@skymavis.com)
-- **Immanuel Cruz** (Publishing Lead at Sky Mavis) – [immanuel.cruz@skymavis.com](mailto:immanuel.cruz@skymavis.com)
+* **Arturo Locsin** (Head of Tech Lab at Ninja Van) – [arturo.locsin@ninjavan.co](mailto:arturo.locsin@ninjavan.co)
+* **Quy Dau ("Bean")** (Product Manager at Sky Mavis) – [bean@skymavis.com](mailto:bean@skymavis.com)
+* **Immanuel Cruz** (Publishing Lead at Sky Mavis) – [immanuel.cruz@skymavis.com](mailto:immanuel.cruz@skymavis.com)
+
+Recommendation letters available upon request.
