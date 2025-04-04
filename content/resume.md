@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 description: "Sergey Rodin's resume, showcasing technical writing experience, skills, and achievements."
-date: 2025-02-26
+date: 2025-03-18
 slug: "resume"
 images:
   - "/images/profile.png"
@@ -12,8 +12,6 @@ Technical writer with 10+ years of experience creating software documentation, i
 * GitHub: [caphesuagey](https://github.com/caphesuagey)
 * LinkedIn: [sergrodin](https://www.linkedin.com/in/sergrodin/)
 * Email: [contact@sergeyrodin.com](mailto:contact@sergeyrodin.com)
-
-{{< callout emoji="⚡️" text="[Open resume in PDF](/resume.pdf)" >}}
 
 ## Work experience
 

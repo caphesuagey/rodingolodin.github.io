@@ -53,15 +53,20 @@
 		
 		<a href="/about">About</a>
 		
+		<a href="/posts">Posts</a>
+		
 		
 	</nav>
 </header>
 
 			
 			<main class="home">
-				<h1>Welcome to my website</h1>
+				<div class="page-header">
+					<h1>Welcome to my website</h1>
+					
+				</div>
 				<div class="home-content">
-					<p>Hi, I’m Sergey—a technical writer passionate about clear, engaging documentation. Welcome to my personal website! Explore my <a href="/portfolio">writing portfolio</a>, <a href="/about">learn more about me</a>, or view my <a href="/resume">resume</a>.</p>
+					<p>Hi, I’m Sergey—a technical writer passionate about clear, engaging documentation. Welcome to my personal website. Explore my <a href="/portfolio">writing portfolio</a>, <a href="/about">learn more about me</a>, or view my <a href="/resume">resume</a>.</p>
 
 				</div>
 			</main>
@@ -73,5 +78,14 @@
 </footer>
 
 		</div>
+
+		<style>
+		.page-header {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			margin-bottom: 2rem;
+		}
+		</style>
 	</body>
 </html>

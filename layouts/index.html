@@ -6,7 +6,10 @@
 			{{ partial "head.html" . }}
 			
 			<main class="home">
-				<h1>{{ .Title }}</h1>
+				<div class="page-header">
+					<h1>{{ .Title }}</h1>
+					{{ partial "page-actions.html" . }}
+				</div>
 				<div class="home-content">
 					{{ .Content }}
 				</div>
@@ -14,5 +17,14 @@
 			
 			{{ partial "footer.html" . }}
 		</div>
+
+		<style>
+		.page-header {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			margin-bottom: 2rem;
+		}
+		</style>
 	</body>
 </html>

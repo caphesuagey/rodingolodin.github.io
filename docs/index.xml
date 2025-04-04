@@ -6,22 +6,31 @@
     <description>Recent content in Welcome to my website on sergeyrodin.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sergeyrodin.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sergeyrodin.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://www.sergeyrodin.com/about/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.sergeyrodin.com/about/</guid>
-      <description>My name is Sergey Rodin. I&amp;rsquo;m a technical writer with over 10 years of experience creating software documentation, including API references and SDK guides. Skilled in docs-as-code, Git, and prompt enginering. Experienced in leading large-scale projects, ensuring clarity, consistency, and quality for engineers and end-users. Adaptable and quick to learn emerging technologies, with a focus on user-friendly content.
+      <description>I&amp;rsquo;m Sergey, a technical writer with over 10 years of experience creating software documentation, including API references and SDK guides. Skilled in docs-as-code, Git, and prompt enginering with ChatGPT. Experienced in leading large-scale projects, ensuring clarity, consistency, and quality for engineers and end-users. Adaptable and quick to learn emerging technologies, with a focus on user-friendly content.
 Get in touch with me:
 GitHub: caphesuagey LinkedIn: sergrodin Email: contact@sergeyrodin.com Telegram: @caphesuagey Phone number (Vietnam): +84‑702‑963‑470 </description>
     </item>
     
     <item>
+      <title>On job hunting</title>
+      <link>https://www.sergeyrodin.com/posts/on-job-hunting/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sergeyrodin.com/posts/on-job-hunting/</guid>
+      <description>So what did I learn? Don&amp;rsquo;t rush with making a career decision. Do a research on the company that you want to commit some of your time to. Research the industry. Research the companies finances to the best of your abilities. See how they communicate with you - do they give you timely updates? Are they generally responsive and respectful of your time? The way the company handles communication with you before they hire you can reveal to you how the communication will go after you&amp;rsquo;re hired.</description>
+    </item>
+    
+    <item>
       <title>Portfolio</title>
       <link>https://www.sergeyrodin.com/portfolio/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.sergeyrodin.com/portfolio/</guid>
       <description>This page contains selected examples of the technical documentation I&amp;rsquo;ve written.
@@ -33,7 +42,7 @@ How-to guides Run a validator and bridge together Enable basic API integration C
     <item>
       <title>Resume</title>
       <link>https://www.sergeyrodin.com/resume/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.sergeyrodin.com/resume/</guid>
       <description>Technical writer with 10+ years of experience creating software documentation, including APIs and SDKs. Skilled in docs-as-code, Git, and prompt engineering for productivity. Experienced in leading projects, ensuring clarity and quality for engineers and users. Adaptable, tech-savvy, and focused on user-friendly content that drives organizational value.

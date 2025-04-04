@@ -2,7 +2,7 @@
 title: "Portfolio"
 slug: "portfolio"
 description: "A collection of technical writing samples by Sergey Rodin, covering API documentation, SDKs, and user guides."
-date: 2025-02-26
+date: 2025-03-18
 images:
   - /images/profile.png
 ---
