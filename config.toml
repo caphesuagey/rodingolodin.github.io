@@ -24,6 +24,7 @@ hideCopyright = false
 since = 2021
 author = "Sergey Rodin"
 og_image = "https://www.sergeyrodin.com/images/profile.png"
+customcss = ["css/custom.css"]
 
 # If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
 [params.googleTagManager]

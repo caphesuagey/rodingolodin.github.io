@@ -1,0 +1,58 @@
+/* Remove Markdown syntax elements and unify fonts */
+
+/* Remove heading markers and set font */
+h1::before,
+h2::before,
+h3::before,
+h4::before,
+h5::before,
+h6::before {
+  content: none !important;
+}
+
+/* Unify fonts for all text elements */
+body,
+h1, h2, h3, h4, h5, h6,
+p,
+ul, ol, li,
+.post-content,
+.site-title,
+.site-description {
+  font-family: 'Fira Sans', sans-serif !important;
+}
+
+/* Remove list markers and set proper spacing */
+ul {
+  list-style-type: disc !important;
+  margin-left: 1.5em !important;
+}
+
+ul li::before {
+  content: none !important;
+}
+
+ul li {
+  text-indent: 0 !important;
+  margin-bottom: 0.5em !important;
+}
+
+/* Keep monospace font only for code blocks */
+pre,
+code,
+.highlight pre {
+  font-family: 'Roboto Mono', monospace !important;
+}
+
+/* Ensure proper heading spacing */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.5em !important;
+  margin-bottom: 0.5em !important;
+}
+
+/* Adjust heading sizes */
+h1 { font-size: 2em !important; }
+h2 { font-size: 1.5em !important; }
+h3 { font-size: 1.25em !important; }
+h4 { font-size: 1.1em !important; }
+h5 { font-size: 1em !important; }
+h6 { font-size: 0.9em !important; }
