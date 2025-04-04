@@ -56,56 +56,54 @@
 <div id="raw-content" style="display: none;">{{ .RawContent }}</div>
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', () => {
   const button = document.getElementById('page-actions-button');
   const menu = document.querySelector('.dropdown-menu');
   
-  // Toggle dropdown
-  button.addEventListener('click', function() {
-    const expanded = this.getAttribute('aria-expanded') === 'true';
-    this.setAttribute('aria-expanded', !expanded);
-    menu.classList.toggle('hidden');
-  });
+  if (!button || !menu) return;
 
-  // Close dropdown when clicking outside
-  document.addEventListener('click', function(event) {
+  const toggleDropdown = (e) => {
+    e.stopPropagation();
+    const expanded = button.getAttribute('aria-expanded') === 'true';
+    button.setAttribute('aria-expanded', !expanded);
+    menu.classList.toggle('hidden');
+  };
+
+  const closeDropdown = (event) => {
     if (!button.contains(event.target) && !menu.contains(event.target)) {
       button.setAttribute('aria-expanded', 'false');
       menu.classList.add('hidden');
     }
-  });
+  };
 
-  // Get the raw Markdown content
-  function getMarkdownContent() {
+  const getMarkdownContent = () => {
     const rawContent = document.getElementById('raw-content');
-    if (rawContent) {
-      return rawContent.textContent;
-    }
-    return '';
-  }
+    return rawContent ? rawContent.textContent : '';
+  };
 
-  // Copy Markdown content
-  document.querySelector('.copy-markdown').addEventListener('click', function() {
+  button.addEventListener('click', toggleDropdown);
+  document.addEventListener('click', closeDropdown);
+
+  document.querySelector('.copy-markdown')?.addEventListener('click', () => {
     const content = getMarkdownContent();
-    navigator.clipboard.writeText(content).then(() => {
-      alert('Content copied to clipboard!');
-    });
+    navigator.clipboard.writeText(content)
+      .then(() => alert('Content copied to clipboard!'))
+      .catch(err => console.error('Failed to copy:', err));
   });
 
-  // View as Markdown
-  document.querySelector('.view-markdown').addEventListener('click', function() {
+  document.querySelector('.view-markdown')?.addEventListener('click', () => {
     const content = getMarkdownContent();
     const newWindow = window.open();
     newWindow.document.write(`
       <!DOCTYPE html>
       <html>
         <head>
+          <title>Markdown Content</title>
           <style>
-            body {
+            body { 
               font-family: monospace;
-              padding: 20px;
               white-space: pre-wrap;
-              word-wrap: break-word;
+              padding: 20px;
               max-width: 800px;
               margin: 0 auto;
               line-height: 1.5;
@@ -115,12 +113,13 @@ document.addEventListener('DOMContentLoaded', function() {
         <body>${content}</body>
       </html>
     `);
+    newWindow.document.close();
   });
 
-  // Open in ChatGPT
-  document.querySelector('.open-chatgpt').addEventListener('click', function() {
-    const content = getMarkdownContent();
-    window.open('https://chat.openai.com/share/' + encodeURIComponent(content));
+  document.querySelector('.open-chatgpt')?.addEventListener('click', () => {
+    const currentPageUrl = window.location.href;
+    const prompt = `Read ${currentPageUrl} so I can ask questions about it.`;
+    window.open(`https://chat.openai.com/?hint=search&q=${encodeURIComponent(prompt)}`, '_blank');
   });
 });
 </script>
