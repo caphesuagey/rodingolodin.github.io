@@ -93,8 +93,3 @@ url = "/resume"
 name = "Portfolio"
 weight = 3
 url = "/portfolio"
-
-[[menu.main]]
-name = "About"
-weight = 4
-url = "/about"
