@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 description: "Sergey Rodin's resume, showcasing technical writing experience, skills, and achievements."
-date: 2025-03-18
+date: 2025-07-06
 slug: "resume"
 images:
   - "/images/profile.png"
@@ -14,6 +14,19 @@ Technical writer with 10+ years of experience creating software documentation, i
 * Email: [contact@sergeyrodin.com](mailto:contact@sergeyrodin.com)
 
 ## Work experience
+
+### Senior technical writer | Phantom (April 2025) - present | Remote, Vietnam
+
+Continuing my journey into blockchain technical writing as part of the Customer Happiness team at Phantom wallet—the most user-friendly crypto wallet I've ever used.
+
+Responsibilities:
+
+* Monitored Ada chatbot conversations daily to identify content gaps and improve both automated responses and support documentation.
+* Wrote new Help Center articles for chatbot and human-assisted support, including day-one documentation for new features—the first of its kind at Phantom.
+* Updated the internal style guide and edited existing articles to align with Microsoft Style Guide standards.
+* Conducted a comprehensive content audit of the knowledge base, archiving outdated articles to improve accuracy and discoverability.
+* Reviewed UX copy for new features to ensure clarity, consistency, and alignment with brand voice.
+* Reported UX issues and submitted bugs to enhance product usability and end-user experience.
 
 ### Senior technical writer | Sky Mavis (Feb 2023 - Nov 2024) | Ho Chi Minh City, Vietnam
 
