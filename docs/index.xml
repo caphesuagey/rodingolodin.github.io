@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sergeyrodin.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Resume</title>
+      <link>https://www.sergeyrodin.com/resume/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sergeyrodin.com/resume/</guid>
+      <description>Technical writer with 10+ years of experience creating software documentation, including APIs and SDKs. Skilled in docs-as-code, Git, and prompt engineering for productivity. Experienced in leading projects, ensuring clarity and quality for engineers and users. Adaptable, tech-savvy, and focused on user-friendly content that drives organizational value.
+GitHub: caphesuagey LinkedIn: sergrodin Email: contact@sergeyrodin.com Work experience Technical writer | Phantom (April 2025 - present) | Remote, Vietnam At Phantom, I’m part of the Customer Happiness team, where I focus on making sure users always have clear, accurate, and helpful information at their fingertips.</description>
+    </item>
+    
+    <item>
       <title>Portfolio</title>
       <link>https://www.sergeyrodin.com/portfolio/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
@@ -17,16 +27,6 @@
 Sky Mavis Diataxis documentation framework When working at Sky Mavis, I tried to follow the Diataxis framework for designing the information architecture of the developer documentation site docs.skymavis.com as a whole, and categorizing each piece of content specifically.
 You can see the framework in action by going to the PRODUCTS section on docs.skymavis.com and browsing the different products.
 How-to guides Run a validator and bridge together Enable basic API integration Create a transaction Tutorials Connect a wallet using injected provider Deploy a smart contract References Metadata standards UI guidelines API reference Explanations About fees and royalties About integration levels About transaction policies SDK integration guides Unity SDK Web SDK Ninja Van API reference </description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>https://www.sergeyrodin.com/resume/</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.sergeyrodin.com/resume/</guid>
-      <description>Technical writer with 10+ years of experience creating software documentation, including APIs and SDKs. Skilled in docs-as-code, Git, and prompt engineering for productivity. Experienced in leading projects, ensuring clarity and quality for engineers and users. Adaptable, tech-savvy, and focused on user-friendly content that drives organizational value.
-GitHub: caphesuagey LinkedIn: sergrodin Email: contact@sergeyrodin.com Work experience Senior technical writer | Sky Mavis (Feb 2023 - Nov 2024) | Ho Chi Minh City, Vietnam Self-onboarded into the blockchain domain through extensive research and laid the foundation for developer documentation.</description>
     </item>
     
   </channel>
