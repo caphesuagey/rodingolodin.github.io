@@ -17,7 +17,7 @@ Technical writer with 10+ years of experience creating software documentation, i
 
 ### Technical writer | Phantom (April 2025 - present) | Remote, Vietnam
 
-At Phantom, I’m part of the Customer Happiness team, where I focus on making sure users always have clear, accurate, and helpful information at their fingertips. My work spans Help Center content, UI writing, user advocacy, and chatbot maintenance.
+At Phantom, I’m part of the Customer Happiness team, where I focus on making sure users always have clear, accurate, and helpful information at their fingertips. My work spans Help Center content ([help.phantom.com](https://help.phantom.com/hc/en-us)), developer docs ([docs.phantom.com](https://docs.phantom.com)) UI writing, user advocacy, and chatbot maintenance.
 
 #### Highlights
 
