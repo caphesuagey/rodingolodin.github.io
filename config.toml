@@ -28,7 +28,7 @@ customcss = ["css/custom.css"]
 
 # If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
 [params.googleTagManager]
-id = "GT-NBJ6ZB9"
+# id = "GT-NBJ6ZB9"
 
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
