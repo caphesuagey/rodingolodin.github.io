@@ -2,13 +2,12 @@ baseURL = "https://www.sergeyrodin.com/"
 title = "sergeyrodin.com"
 theme = "archie"
 languageCode = "en-us"
-paginate=3
+pagerSize=3
 pygmentsStyle = "monokai"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 publishDir = "docs"
-googleAnalytics = "G-YM8LD3VXML"
 
 [params]
 enableOpenGraph = true
@@ -28,7 +27,7 @@ customcss = ["css/custom.css"]
 
 # If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
 [params.googleTagManager]
-# id = "GT-NBJ6ZB9"
+id = "G-YM8LD3VXML"
 
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]

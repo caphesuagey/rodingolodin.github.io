@@ -4,7 +4,8 @@
     <title>Tags on sergeyrodin.com</title>
     <link>https://www.sergeyrodin.com/tags/</link>
     <description>Recent content in Tags on sergeyrodin.com</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.sergeyrodin.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://www.sergeyrodin.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
