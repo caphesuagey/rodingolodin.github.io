@@ -8,7 +8,6 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 publishDir = "docs"
-googleAnalytics="G-YM8LD3VXML"
 
 [params]
 enableOpenGraph = true
@@ -25,10 +24,6 @@ since = 2021
 author = "Sergey Rodin"
 og_image = "https://www.sergeyrodin.com/images/profile.png"
 customcss = ["css/custom.css"]
-
-# If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
-[params.googleTagManager]
-# id = "G-YM8LD3VXML"
 
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
@@ -79,6 +74,10 @@ url = "https://www.linkedin.com/in/sergrodin/"
 name = "Instagram"
 icon = "instagram"
 url = "https://www.instagram.com/caphesuagey/"
+
+[services]
+  [services.googleAnalytics]
+    id = "G-YM8LD3VXML"
 
 [[menu.main]]
 name = "Home"
