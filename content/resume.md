@@ -1,13 +1,13 @@
 ---
 title: "Resume"
 description: "Sergey Rodin's resume, showcasing technical writing experience, skills, and achievements."
-date: 2025-09-06
+date: 2026-01-24
 slug: "resume"
 images:
   - "/images/profile.png"
 ---
 
-Technical writer with 10+ years of experience creating software documentation, including APIs and SDKs. Skilled in docs-as-code, Git, and prompt engineering for productivity. Experienced in leading projects, ensuring clarity and quality for engineers and users. Adaptable, tech-savvy, and focused on user-friendly content that drives organizational value.
+Technical writer who treats documentation as part of the product experience. Recognized for driving clarity in Help Center content, sharing actionable product feedback, and supporting cross-functional work that improves the end-to-end user experience. 10+ years in software documentation, including APIs and SDKs, with a strong docs-as-code foundation.
 
 * GitHub: [caphesuagey](https://github.com/caphesuagey)
 * LinkedIn: [sergrodin](https://www.linkedin.com/in/sergrodin/)
@@ -21,12 +21,11 @@ At Phantom, I’m part of the Customer Happiness team, where I focus on making s
 
 #### Highlights
 
-* Help Center: Restructured and standardized all articles for consistency and clarity, ensuring the same reliable answers appear both online and in chatbot responses.
-* Documentation at launch: Built a process for day-one documentation releases for major product launches like Phantom Perps, Social Feed, and PSOL staking, with proactive updates as features evolve.
-* Style guide: Revived the internal style guide project, expanding it beyond Help Center docs to UI writing and cross-team collaboration.
-* UI copy: Contributed to reviews for major features, making sure in-app wording is intuitive and user-friendly.
-
-Above all, I’m passionate about making Phantom feel approachable, trustworthy, and easy to use. I’m lucky to work with a team that shares that vision.
+* Help Center quality and consistency: Restructured and standardized articles so users get the same reliable answers across Help Center and chatbot responses.
+* Day-one documentation: Built a process for launch-ready docs for major releases (including Phantom Cash, Prediction Markets, Perps, Terminal, Chats, and PSOL), with proactive updates as features evolve.
+* Style and standards: Revived the internal style guide and expanded it beyond Help Center docs to support UI writing and cross-team collaboration.
+* In-app clarity: Partnered on reviews for major features to keep in-app wording intuitive and user-friendly.
+* Cross-functional impact: Closed product loops by bringing user feedback to product and engineering teams.
 
 ### Senior technical writer | Sky Mavis (Feb 2023 - Nov 2024) | Ho Chi Minh City, Vietnam
 
@@ -36,47 +35,47 @@ Self-onboarded into the blockchain domain through extensive research and laid th
 
 Documentation impact:
 
-* Launched a developer documentation site that achieved over 15,000 monthly views.
-* Created an end-user documentation site for a blockchain that reached over 8,000 monthly users.
-* Developed comprehensive documentation for over 10 products, APIs, and SDKs using docs-as-code.
+* Launched a [developer documentation site](docs.skymavis.com) that reached 15,000+ monthly views.
+* Created an [end-user documentation site](docs.roninchain.com) for a blockchain that reached 8,000+ monthly users.
+* Documented 10+ products, APIs, and SDKs using docs-as-code.
 
 Scalable documentation processes:
 
-* Automated workflows and educated engineers, enabling them to independently document two critical APIs.
-* Ensured clear, standardized information architecture using the Diátaxis framework.
+* Automated workflows and enabled engineers to independently document two critical APIs.
+* Standardized information architecture using the Diátaxis framework.
 
 Cross-functional contributions:
 
-* Reviewed and updated UI microcopy for the Ronin web app in collaboration with UX designers.
-* Applied the Business Model Canvas to identify ways developer documentation could reduce integration timelines.
+* Reviewed and updated UI microcopy for the Ronin web app with UX designers.
+* Applied the Business Model Canvas to identify ways documentation could reduce integration timelines.
 
 Client engagement:
 
-* Worked directly with game studios as an integration manager, improving documentation, reducing integration timelines, and driving client satisfaction.
+Worked directly with game studios as an integration manager, improving documentation and reducing integration timelines.
 
 ### Senior technical writer | Ninja Van (Apr 2021 - Jan 2023) | Ho Chi Minh City, Vietnam
 
-Led the documentation function, overseeing contributions from over 200 engineers, product managers, and QA testers. Developed API documentation for external partners. Maintained an internal wiki and enforced adherence to guidelines and processes.
+Led the documentation function, overseeing contributions from 200+ engineers, product managers, and QA testers. Developed API documentation for external partners. Maintained an internal wiki and enforced guidelines and processes.
 
 #### Achievements
 
-* Rewrote and expanded the company’s API documentation site, reducing support requests by 20%.
-* Developed a style guide and implemented documentation guidelines, increasing perceived documentation quality by 20% based on quarterly surveys.
-* Reduced onboarding time for QA engineers from two weeks to two days by creating comprehensive tutorials.
+* Rewrote and expanded the API documentation site, reducing support requests by 20%.
+* Created a style guide and implemented documentation guidelines, increasing perceived documentation quality by 20% (quarterly surveys).
+* Reduced QA onboarding time from two weeks to two days with tutorials.
 * Improved documentation coverage for microservices from 40% to 80% in a year.
-* Established a “wiki warden” model, appointing documentation representatives for engineering teams, leading to a 10% increase in documentation accuracy.
+* Established a “wiki warden” model across engineering teams, increasing documentation accuracy by 10%.
 
 ### Senior technical writer | Lazada Group (Sep 2018 - Apr 2021) | Ho Chi Minh City
 
-Worked with logistics technology and cybersecurity teams, creating documentation for engineers.
+Created documentation for logistics technology and cybersecurity teams.
 
 #### Achievements
 
-* Developed a centralized architecture diagram, establishing a single source of truth for system connectivity.
-* Created a company-wide glossary and implemented a chatbot for retrieving definitions, increasing efficiency by 30%.
-* Standardized API specifications for 30+ services and set API documentation standards.
-* Migrated documentation from Confluence to Yuque, improving accessibility.
-* Created onboarding documentation for new employees and developer guidelines to streamline onboarding.
+* Built a centralized architecture diagram as the source of truth for system connectivity.
+* Created a company-wide glossary and a chatbot for retrieving definitions, improving efficiency by 30%.
+* Standardized API specifications for 30+ services and established API documentation standards.
+* Migrated documentation from Confluence to Yuque to improve accessibility.
+* Created onboarding documentation and developer guidelines to streamline onboarding.
 
 ### Senior technical writer | Lazada Group (Jan 2017 - Sep 2018) | Singapore
 
@@ -84,28 +83,28 @@ Documented information security and access management systems, contributing to i
 
 #### Achievements
 
-* Developed user documentation that increased adoption of the BlackBerry UEM mobility management platform.
+* Developed user documentation supporting adoption of the BlackBerry UEM mobility management platform.
 * Designed a SharePoint site and knowledge base for a Google Docs to Office 365 migration project.
-* Created a developer documentation set for an invoice management system, including 10 data flow diagrams, five sequence diagrams, and three context diagrams.
+* Created developer documentation for an invoice management system, including 10 data flow diagrams, five sequence diagrams, and three context diagrams.
 
 ### Technical writer | Lazada Group (Jul 2015 - Jan 2017) | Ho Chi Minh City
 
-Independently established a technical writing workflow and documented key processes in e-commerce software development.
+Established a technical writing workflow and documented key processes in e-commerce software development.
 
 #### Achievements
 
 * Developed administrator documentation for backend engine and order management systems.
 * Created a system architecture diagram by coordinating with developers and tech leads.
-* Led presentations on the impact of technical writing in software development, improving project efficiency.
-* Developed onboarding documentation, reducing training time from two weeks to three days.
+* Presented on documentation impact in software development, improving project efficiency.
+* Created onboarding documentation, reducing training time from two weeks to three days.
 
 ### Technical writer | Lintelus Inc. (Sep 2014 - Aug 2015) | Remote (USA)
 
-Created DOC/PDF documentation for an event management platform, ensuring a 100% on-time release rate across multiple time zones.
+Created DOC/PDF documentation for an event management platform, maintaining a 100% on-time release rate across time zones.
 
 ### Technical writer | SwitchRay Inc. (Sep 2013 - Sep 2014) | Nizhny Novgorod, Russia
 
-Developed end-user documentation for a telecom fraud detection system, including user guides, release notes, and marketing content.
+Created end-user documentation for a telecom fraud detection system, including user guides, release notes, and marketing content.
 
 ### Technical writer | MFI Soft (Nov 2012 - Aug 2013) | Nizhny Novgorod, Russia
 
@@ -113,7 +112,7 @@ Created bilingual (English/Russian) documentation for a VoIP soft-switch, coveri
 
 ### Translator | Hotel Translation (Jan 2011 - Jan 2012) | Nizhny Novgorod, Russia
 
-Translated over 10 projects from English to Russian for a major hotel chain in Dubai.
+Translated 10+ projects from English to Russian for a major hotel chain based in Dubai.
 
 ## Certifications
 
