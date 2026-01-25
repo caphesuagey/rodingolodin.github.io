@@ -1,13 +1,13 @@
 ---
 title: "Resume"
 description: "Sergey Rodin's resume, showcasing technical writing experience, skills, and achievements."
-date: 2026-01-24
+date: 2026-01-25
 slug: "resume"
 images:
   - "/images/profile.png"
 ---
 
-Technical writer who treats documentation as part of the product experience. Recognized for driving clarity in Help Center content, sharing actionable product feedback, and supporting cross-functional work that improves the end-to-end user experience. 10+ years in software documentation, including APIs and SDKs, with a strong docs-as-code foundation.
+I’m Sergey, a senior technical writer with 10+ years of experience helping teams ship clear, consistent documentation for complex software. I work across end-user documentation, developer docs (APIs and SDKs), and documentation operations, with a strong focus on information architecture, standards, and scalable docs-as-code workflows. I partner closely with product, design, engineering, and support to turn fast-moving releases into guidance users can trust, and to build documentation systems that stay accurate as products evolve. Known for stepping in where needed, closing feedback loops, and raising the quality bar on clarity.
 
 * GitHub: [caphesuagey](https://github.com/caphesuagey)
 * LinkedIn: [sergrodin](https://www.linkedin.com/in/sergrodin/)
@@ -143,5 +143,6 @@ Specialized in the theory and methods of teaching foreign languages (English).
 * **Arturo Locsin** (Head of Tech Lab at Ninja Van) – [arturo.locsin@ninjavan.co](mailto:arturo.locsin@ninjavan.co)
 * **Quy Dau ("Bean")** (Product Manager at Sky Mavis) – [bean@skymavis.com](mailto:bean@skymavis.com)
 * **Immanuel Cruz** (Publishing Lead at Sky Mavis) – [immanuel.cruz@skymavis.com](mailto:immanuel.cruz@skymavis.com)
+* **David Pazdan** (Head of Customer Happiness at Phantom) - [david@phantom.app](mailto:david@phantom.app)
 
 Recommendation letters available upon request.

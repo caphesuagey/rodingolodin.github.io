@@ -1,15 +1,16 @@
 ---
 title: "About me"
-date: 2025-03-18
-draft: false
+date: 2026-01-25
 description: "The personal website of Sergey Rodin, a technical writer specializing in API and developer documentation."
 images:
   - /images/profile.png
 ---
 
-I'm Sergey, a technical writer with over 10 years of experience creating software documentation, including API references and SDK guides. Skilled in docs-as-code, Git, and prompt enginering with ChatGPT. Experienced in leading large-scale projects, ensuring clarity, consistency, and quality for engineers and end-users. Adaptable and quick to learn emerging technologies, with a focus on user-friendly content.
+I’m Sergey, a senior technical writer with 10+ years of experience helping teams ship clear, consistent documentation for complex software. I work across end-user documentation, developer docs (APIs and SDKs), and documentation operations, with a strong focus on information architecture, standards, and scalable docs-as-code workflows.
 
-You can explore my [writing portfolio](/portfolio) or view my [resume](/resume). Or get in touch with me:
+I partner closely with product, design, engineering, and support to turn fast-moving releases into guidance users can trust, and to build documentation systems that stay accurate as products evolve.
+
+You can explore my [writing portfolio](/portfolio), view my [resume](/resume), or get in touch:
 
 * GitHub: [caphesuagey](https://github.com/caphesuagey)
 * LinkedIn: [sergrodin](https://www.linkedin.com/in/sergrodin/)

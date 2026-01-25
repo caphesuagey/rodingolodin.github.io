@@ -19,10 +19,11 @@
 
   <div class="dropdown-menu hidden" role="menu" aria-orientation="vertical" aria-labelledby="page-actions-button">
     <div class="dropdown-content">
+
       <button class="copy-markdown dropdown-item" role="menuitem">
         <div class="dropdown-item-content">
           <svg class="item-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7v8a2 2 0 002 2h6M8 7V5a2 2 0 012-2h4.586a1 1 0 01.707.293l4.414 4.414a1 1 0 01.293.707V15a2 2 0 01-2 2h-2M8 7H6a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2v-2"></path>
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7v8a2 2 0 002 2h6M8 7V5a2 2 0 012-2h4.586a1 1 0 01.707.293l4.414 4.414a1 1.0 0 01.293.707V15a2 2 0 01-2 2h-2M8 7H6a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2v-2"></path>
           </svg>
           <span>
             Copy as Markdown
@@ -30,6 +31,7 @@
           </span>
         </div>
       </button>
+
       <button class="view-markdown dropdown-item" role="menuitem">
         <div class="dropdown-item-content">
           <svg class="item-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -42,6 +44,7 @@
           </span>
         </div>
       </button>
+
       <button class="open-chatgpt dropdown-item" role="menuitem">
         <div class="dropdown-item-content">
           <svg class="item-icon" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -53,6 +56,7 @@
           </span>
         </div>
       </button>
+
     </div>
   </div>
 </div>
@@ -64,10 +68,10 @@
 document.addEventListener('DOMContentLoaded', () => {
   const button = document.getElementById('page-actions-button');
   const menu = document.querySelector('.dropdown-menu');
-  const buttonText = button.querySelector('.button-text');
-  const toggleArea = button.querySelector('.dropdown-toggle-area');
-  
+
   if (!button || !menu) return;
+
+  const buttonText = button.querySelector('.button-text');
 
   const toggleDropdown = (e) => {
     e.stopPropagation();
@@ -337,4 +341,4 @@ document.addEventListener('DOMContentLoaded', () => {
     background-color: rgba(255, 255, 255, 0.1);
   }
 }
-</style> 
+</style>
