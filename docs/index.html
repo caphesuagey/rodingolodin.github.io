@@ -2,12 +2,12 @@
 <html>
 	<head lang="en">
 	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>sergeyrodin.com | Home </title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Sergey Rodin | Home </title><meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="The personal website of Sergey Rodin, a technical writer specializing in API and developer documentation." />
 	<meta property="og:image" content="https://www.sergeyrodin.com/images/profile.png"/>
-	<link rel="alternate" type="application/rss+xml" href="https://www.sergeyrodin.com/index.xml" title="sergeyrodin.com" />
+	<link rel="alternate" type="application/rss+xml" href="https://www.sergeyrodin.com/index.xml" title="Sergey Rodin" />
 	<meta property="og:url" content="https://www.sergeyrodin.com/">
-  <meta property="og:site_name" content="sergeyrodin.com">
+  <meta property="og:site_name" content="Sergey Rodin">
   <meta property="og:title" content="About me">
   <meta property="og:description" content="The personal website of Sergey Rodin, a technical writer specializing in API and developer documentation.">
   <meta property="og:locale" content="en_us">
@@ -27,7 +27,7 @@
 		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="https://www.sergeyrodin.com/css/dark.478e7f2b9cf8d87be42edfd9fe1810beab1331847df94b1b430478b309f28282.css" media="(prefers-color-scheme: dark)"  />
 		
 		
-		<link rel="stylesheet" type="text/css" href="https://www.sergeyrodin.com/css/custom.18a09d3f0cf81dec117764c00f4a2b1cd7b0f665d8cecaf683fd9802c1058c8d.css">
+		<link rel="stylesheet" type="text/css" href="https://www.sergeyrodin.com/css/custom.63b7d8e15ce901c6399619cdb160055e680691eebd098864640a1f979d662f3e.css">
 		
   
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-YM8LD3VXML"></script>
@@ -50,7 +50,7 @@
 		<div class="content">
 			<header>
 	<div class="main">
-		<a href="https://www.sergeyrodin.com/">sergeyrodin.com</a>
+		<a href="https://www.sergeyrodin.com/">Sergey Rodin</a>
 	</div>
 	<nav>
 		
@@ -71,15 +71,21 @@
 					
 <div class="page-actions">
   <div>
-    <button type="button" class="dropdown-toggle" id="page-actions-button" aria-expanded="false" aria-haspopup="true">
+    <button
+      type="button"
+      class="dropdown-toggle"
+      id="page-actions-button"
+      aria-expanded="false"
+      aria-haspopup="true"
+    >
       <div class="button-content">
-        <svg class="button-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7v8a2 2 0 002 2h6M8 7V5a2 2 0 012-2h4.586a1 1 0 01.707.293l4.414 4.414a1 1 0 01.293.707V15a2 2 0 01-2 2h-2M8 7H6a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2v-2"></path>
-        </svg>
-        <span class="button-text">Copy as MD</span>
+        <svg class="button-icon" id="main-action-icon" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"></svg>
+        <span class="button-text">Open in ChatGPT</span>
       </div>
+
       <div class="button-separator"></div>
-      <div class="dropdown-toggle-area">
+
+      <div class="dropdown-toggle-area" aria-label="Open menu">
         <svg class="chevron-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
         </svg>
@@ -89,18 +95,31 @@
 
   <div class="dropdown-menu hidden" role="menu" aria-orientation="vertical" aria-labelledby="page-actions-button">
     <div class="dropdown-content">
-      <button class="copy-markdown dropdown-item" role="menuitem">
+      <button class="open-chatgpt dropdown-item is-selected" role="menuitem" data-action="open-chatgpt">
+        <div class="dropdown-item-content">
+          <svg class="item-icon" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+            <path d="M22.2819 9.8211a5.9847 5.9847 0 0 0-.5157-4.9108 6.0462 6.0462 0 0 0-6.5098-2.9A6.0651 6.0651 0 0 0 4.9807 4.1818a5.9847 5.9847 0 0 0-3.9977 2.9 6.0462 6.0462 0 0 0 .7427 7.0966 5.98 5.98 0 0 0 .511 4.9107 6.051 6.051 0 0 0 6.5146 2.9001A5.9847 5.9847 0 0 0 13.2599 24a6.0557 6.0557 0 0 0 5.7718-4.2058 5.9894 5.9894 0 0 0 3.9977-2.9001 6.0557 6.0557 0 0 0-.7475-7.0729zm-9.022 12.6081a4.4755 4.4755 0 0 1-2.8764-1.0408l.1419-.0804 4.7783-2.7582a.7948.7948 0 0 0 .3927-.6813v-6.7369l2.02 1.1686a.071.071 0 0 1 .038.052v5.5826a4.504 4.504 0 0 1-4.4945 4.4944zm-9.6607-4.1254a4.4708 4.4708 0 0 1-.5346-3.0137l.142.0852 4.783 2.7582a.7712.7712 0 0 0 .7806 0l5.8428-3.3685v2.3324a.0804.0804 0 0 1-.0332.0615L9.74 19.9502a4.4992 4.4992 0 0 1-6.1408-1.6464zM2.3408 7.8956a4.485 4.485 0 0 1 2.3655-1.9728V11.6a.7664.7664 0 0 0 .3879.6765l5.8144 3.3543-2.0201 1.1685a.0757.0757 0 0 1-.071 0l-4.8303-2.7865A4.504 4.504 0 0 1 2.3408 7.8956zm16.0993 3.8558L12.6 8.3829 14.6201 7.2144a.0757.0757 0 0 1 .071 0l4.8303 2.7913a4.4944 4.4944 0 0 1-.6765 8.1042v-5.6772a.79.79 0 0 0-.4069-.6813zm2.0107-3.0231l-.142-.0852-4.7735-2.7818a.7759.7759 0 0 0-.7854 0L9.409 9.2297V6.8974a.0662.0662 0 0 1 .0284-.0615l4.8303-2.7866a4.4992 4.4992 0 0 1 6.1408 1.6465 4.4708 4.4708 0 0 1 .5346 3.0137zM8.3065 12.863l-2.02-1.1638a.0804.0804 0 0 1-.038-.0567V6.0742a4.4992 4.4992 0 0 1 7.3757-3.4537l-.142.0805L8.704 5.459a.7948.7948 0 0 0-.3927.6813zm1.0976-2.3654l2.602-1.4998 2.6069 1.4998v2.9994l-2.5974 1.4997-2.6067-1.4997Z"/>
+          </svg>
+          <span>
+            Open in ChatGPT
+            <span class="item-description">Ask questions about this page</span>
+          </span>
+        </div>
+      </button>
+
+      <button class="copy-page dropdown-item" role="menuitem" data-action="copy-page">
         <div class="dropdown-item-content">
           <svg class="item-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7v8a2 2 0 002 2h6M8 7V5a2 2 0 012-2h4.586a1 1 0 01.707.293l4.414 4.414a1 1 0 01.293.707V15a2 2 0 01-2 2h-2M8 7H6a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2v-2"></path>
           </svg>
           <span>
-            Copy as Markdown
-            <span class="item-description">Copy full Markdown content</span>
+            Copy page
+            <span class="item-description">Copy page as Markdown for LLMs</span>
           </span>
         </div>
       </button>
-      <button class="view-markdown dropdown-item" role="menuitem">
+
+      <button class="view-markdown dropdown-item" role="menuitem" data-action="view-markdown">
         <div class="dropdown-item-content">
           <svg class="item-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
@@ -112,49 +131,127 @@
           </span>
         </div>
       </button>
-      <button class="open-chatgpt dropdown-item" role="menuitem">
-        <div class="dropdown-item-content">
-          <svg class="item-icon" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-            <path d="M22.2819 9.8211a5.9847 5.9847 0 0 0-.5157-4.9108 6.0462 6.0462 0 0 0-6.5098-2.9A6.0651 6.0651 0 0 0 4.9807 4.1818a5.9847 5.9847 0 0 0-3.9977 2.9 6.0462 6.0462 0 0 0 .7427 7.0966 5.98 5.98 0 0 0 .511 4.9107 6.051 6.051 0 0 0 6.5146 2.9001A5.9847 5.9847 0 0 0 13.2599 24a6.0557 6.0557 0 0 0 5.7718-4.2058 5.9894 5.9894 0 0 0 3.9977-2.9001 6.0557 6.0557 0 0 0-.7475-7.0729zm-9.022 12.6081a4.4755 4.4755 0 0 1-2.8764-1.0408l.1419-.0804 4.7783-2.7582a.7948.7948 0 0 0 .3927-.6813v-6.7369l2.02 1.1686a.071.071 0 0 1 .038.052v5.5826a4.504 4.504 0 0 1-4.4945 4.4944zm-9.6607-4.1254a4.4708 4.4708 0 0 1-.5346-3.0137l.142.0852 4.783 2.7582a.7712.7712 0 0 0 .7806 0l5.8428-3.3685v2.3324a.0804.0804 0 0 1-.0332.0615L9.74 19.9502a4.4992 4.4992 0 0 1-6.1408-1.6464zM2.3408 7.8956a4.485 4.485 0 0 1 2.3655-1.9728V11.6a.7664.7664 0 0 0 .3879.6765l5.8144 3.3543-2.0201 1.1685a.0757.0757 0 0 1-.071 0l-4.8303-2.7865A4.504 4.504 0 0 1 2.3408 7.8956zm16.0993 3.8558L12.6 8.3829 14.6201 7.2144a.0757.0757 0 0 1 .071 0l4.8303 2.7913a4.4944 4.4944 0 0 1-.6765 8.1042v-5.6772a.79.79 0 0 0-.4069-.6813zm2.0107-3.0231l-.142-.0852-4.7735-2.7818a.7759.7759 0 0 0-.7854 0L9.409 9.2297V6.8974a.0662.0662 0 0 1 .0284-.0615l4.8303-2.7866a4.4992 4.4992 0 0 1 6.1408 1.6465 4.4708 4.4708 0 0 1 .5346 3.0137zM8.3065 12.863l-2.02-1.1638a.0804.0804 0 0 1-.038-.0567V6.0742a4.4992 4.4992 0 0 1 7.3757-3.4537l-.142.0805L8.704 5.459a.7948.7948 0 0 0-.3927.6813zm1.0976-2.3654l2.602-1.4998 2.6069 1.4998v2.9994l-2.5974 1.4997-2.6067-1.4997Z"/>
-          </svg>
-          <span>
-            Open in ChatGPT
-            <span class="item-description">Ask questions about this page</span>
-          </span>
-        </div>
-      </button>
     </div>
   </div>
 </div>
 
 
-<div id="raw-content" style="display: none;">
-I’m Sergey, a senior technical writer with 10&#43; years of experience helping teams ship clear, consistent documentation for complex software. I work across end-user documentation, developer docs (APIs and SDKs), and documentation operations, with a strong focus on information architecture, standards, and scalable docs-as-code workflows.
+<div id="raw-content" style="display:none;">
+I’m Sergey, a technical writer with 10&#43; years of experience helping teams ship clear, consistent documentation for complex software. I work across end-user documentation, developer documentation for APIs and SDKs, and documentation operations, with a strong focus on information architecture, standards, and scalable docs-as-code workflows.
 
-I partner closely with product, design, engineering, and support to turn fast-moving releases into guidance users can trust, and to build documentation systems that stay accurate as products evolve.
+I partner closely with product, design, engineering, and support to turn fast-moving releases into guidance users can trust, and to build documentation systems that stay accurate as products evolve. I use LLMs as part of my workflow to stay productive, scale updates across large sets of articles, and maintain consistency with established style guides.
+
+Outside of work, I stay active and social. I play pickleball, run regularly, and look for ways to move every day. I enjoy being around people and tend to connect easily. I value strong friendships and conversations that feel real.
+
+I am also curious about the inner workings of the mind. Psychology has long interested me, especially motivation, behavior, and self-awareness. I spend time reflecting, observing patterns, and understanding how people think. I am a good listener and appreciate thoughtful, honest dialogue.
 
 You can explore my [writing portfolio](/portfolio), view my [resume](/resume), or get in touch:
 
-* GitHub: [caphesuagey](https://github.com/caphesuagey)
-* LinkedIn: [sergrodin](https://www.linkedin.com/in/sergrodin/)
-* Email: [contact@sergeyrodin.com](mailto:contact@sergeyrodin.com)
-* Telegram: [@caphesuagey](https://t.me/caphesuagey)
-* Phone number (Vietnam): &#43;84702963470
+* [contact@sergeyrodin.com](mailto:contact@sergeyrodin.com)
+* [&#43;84 702 963 470](tel:&#43;84702963470)
+* [LinkedIn](https://www.linkedin.com/in/sergrodin/)
+* [Instagram](https://www.instagram.com/caphesuagey/)
+* [GitHub](https://github.com/caphesuagey)
+* [Telegram](https://t.me/caphesuagey)
 </div>
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
   const button = document.getElementById('page-actions-button');
   const menu = document.querySelector('.dropdown-menu');
-  const buttonText = button.querySelector('.button-text');
-  const toggleArea = button.querySelector('.dropdown-toggle-area');
-  
-  if (!button || !menu) return;
+  const buttonText = button?.querySelector('.button-text');
+  const toggleArea = button?.querySelector('.dropdown-toggle-area');
+
+  if (!button || !menu || !buttonText || !toggleArea) return;
+
+  const ACTIONS = {
+    'open-chatgpt': {
+      label: 'Open in ChatGPT',
+      run: () => {
+        const currentPageUrl = window.location.href;
+        const prompt = `Read ${currentPageUrl} so I can ask questions about it.`;
+        window.open(
+          `https://chat.openai.com/?hint=search&q=${encodeURIComponent(prompt)}`,
+          '_blank',
+          'noopener,noreferrer'
+        );
+      }
+    },
+    'copy-page': {
+      label: 'Copy page',
+      run: async () => {
+        const content = getMarkdownContent();
+        try {
+          await navigator.clipboard.writeText(content);
+          showCopiedFeedback();
+        } catch (err) {
+          console.error('Failed to copy:', err);
+        }
+      }
+    },
+    'view-markdown': {
+      label: 'View as Markdown',
+      run: () => {
+        const content = getMarkdownContent();
+        const newWindow = window.open('', '_blank', 'noopener,noreferrer');
+        if (!newWindow) return;
+
+        const escaped = content
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;');
+
+        newWindow.document.write(`<!DOCTYPE html>
+<html>
+  <head>
+	<meta name="generator" content="Hugo 0.152.2">
+    <meta charset="utf-8" />
+    <title>Markdown Content</title>
+    <style>
+      body {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        white-space: pre-wrap;
+        padding: 20px;
+        max-width: 800px;
+        margin: 0 auto;
+        line-height: 1.5;
+      }
+    </style>
+  </head>
+  <body>${escaped}</body>
+</html>`);
+        newWindow.document.close();
+      }
+    }
+  };
+
+  const ICONS = {
+  'open-chatgpt': `
+    <path d="M22.2819 9.8211a5.9847 5.9847 0 0 0-.5157-4.9108 6.0462 6.0462 0 0 0-6.5098-2.9A6.0651 6.0651 0 0 0 4.9807 4.1818a5.9847 5.9847 0 0 0-3.9977 2.9 6.0462 6.0462 0 0 0 .7427 7.0966 5.98 5.98 0 0 0 .511 4.9107 6.051 6.051 0 0 0 6.5146 2.9001A5.9847 5.9847 0 0 0 13.2599 24a6.0557 6.0557 0 0 0 5.7718-4.2058 5.9894 5.9894 0 0 0 3.9977-2.9001 6.0557 6.0557 0 0 0-.7475-7.0729zm-9.022 12.6081a4.4755 4.4755 0 0 1-2.8764-1.0408l.1419-.0804 4.7783-2.7582a.7948.7948 0 0 0 .3927-.6813v-6.7369l2.02 1.1686a.071.071 0 0 1 .038.052v5.5826a4.504 4.504 0 0 1-4.4945 4.4944zm-9.6607-4.1254a4.4708 4.4708 0 0 1-.5346-3.0137l.142.0852 4.783 2.7582a.7712.7712 0 0 0 .7806 0l5.8428-3.3685v2.3324a.0804.0804 0 0 1-.0332.0615L9.74 19.9502a4.4992 4.4992 0 0 1-6.1408-1.6464zM2.3408 7.8956a4.485 4.485 0 0 1 2.3655-1.9728V11.6a.7664.7664 0 0 0 .3879.6765l5.8144 3.3543-2.0201 1.1685a.0757.0757 0 0 1-.071 0l-4.8303-2.7865A4.504 4.504 0 0 1 2.3408 7.8956zm16.0993 3.8558L12.6 8.3829 14.6201 7.2144a.0757.0757 0 0 1 .071 0l4.8303 2.7913a4.4944 4.4944 0 0 1-.6765 8.1042v-5.6772a.79.79 0 0 0-.4069-.6813zm2.0107-3.0231l-.142-.0852-4.7735-2.7818a.7759.7759 0 0 0-.7854 0L9.409 9.2297V6.8974a.0662.0662 0 0 1 .0284-.0615l4.8303-2.7866a4.4992 4.4992 0 0 1 6.1408 1.6465 4.4708 4.4708 0 0 1 .5346 3.0137zM8.3065 12.863l-2.02-1.1638a.0804.0804 0 0 1-.038-.0567V6.0742a4.4992 4.4992 0 0 1 7.3757-3.4537l-.142.0805L8.704 5.459a.7948.7948 0 0 0-.3927.6813zm1.0976-2.3654l2.602-1.4998 2.6069 1.4998v2.9994l-2.5974 1.4997-2.6067-1.4997Z"/>
+  `,
+  'copy-page': `
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none"
+      d="M8 7v8a2 2 0 002 2h6M8 7V5a2 2 0 012-2h4.586a1 1 0 01.707.293l4.414 4.414a1 1 0 01.293.707V15a2 2 0 01-2 2h-2M8 7H6a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2v-2"/>
+  `,
+  'view-markdown': `
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none"
+      d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none"
+      d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/>
+  `
+};
+
+  let selectedAction = 'open-chatgpt'; 
+
+  const getMarkdownContent = () => {
+    const rawContent = document.getElementById('raw-content');
+    return rawContent ? rawContent.textContent : '';
+  };
 
   const toggleDropdown = (e) => {
     e.stopPropagation();
     const expanded = button.getAttribute('aria-expanded') === 'true';
-    button.setAttribute('aria-expanded', !expanded);
+    button.setAttribute('aria-expanded', String(!expanded));
     menu.classList.toggle('hidden');
   };
 
@@ -163,75 +260,48 @@ document.addEventListener('DOMContentLoaded', () => {
     menu.classList.add('hidden');
   };
 
-  const getMarkdownContent = () => {
-    const rawContent = document.getElementById('raw-content');
-    return rawContent ? rawContent.textContent : '';
-  };
-
   const showCopiedFeedback = () => {
+    const previous = buttonText.textContent;
     buttonText.textContent = 'Copied';
     setTimeout(() => {
-      buttonText.textContent = 'Copy as MD';
+      buttonText.textContent = previous;
     }, 2000);
   };
 
-  const copyContent = async () => {
-    const content = getMarkdownContent();
-    try {
-      await navigator.clipboard.writeText(content);
-      showCopiedFeedback();
-    } catch (err) {
-      console.error('Failed to copy:', err);
-    }
-  };
+  const mainIcon = document.getElementById('main-action-icon');
+
+  const setSelected = (actionKey) => {
+  selectedAction = actionKey;
+  buttonText.textContent = ACTIONS[actionKey].label;
+
+  if (mainIcon && ICONS[actionKey]) {
+    mainIcon.innerHTML = ICONS[actionKey];
+  }
+
+  menu.querySelectorAll('.dropdown-item').forEach((el) => {
+    el.classList.toggle('is-selected', el.dataset.action === actionKey);
+  });
+};
 
   
   button.addEventListener('click', (e) => {
     if (e.target.closest('.dropdown-toggle-area')) {
       toggleDropdown(e);
-    } else {
-      copyContent();
+      return;
     }
+    ACTIONS[selectedAction].run();
   });
 
   
-  document.querySelector('.copy-markdown')?.addEventListener('click', () => {
-    copyContent();
-    closeDropdown();
-  });
+  menu.querySelectorAll('.dropdown-item').forEach((item) => {
+    item.addEventListener('click', async () => {
+      const actionKey = item.dataset.action;
+      if (!ACTIONS[actionKey]) return;
 
-  document.querySelector('.view-markdown')?.addEventListener('click', () => {
-    const content = getMarkdownContent();
-    const newWindow = window.open();
-    newWindow.document.write(`
-      <!DOCTYPE html>
-      <html>
-        <head>
-	<meta name="generator" content="Hugo 0.152.2">
-          <title>Markdown Content</title>
-          <style>
-            body { 
-              font-family: monospace;
-              white-space: pre-wrap;
-              padding: 20px;
-              max-width: 800px;
-              margin: 0 auto;
-              line-height: 1.5;
-            }
-          </style>
-        </head>
-        <body>${content}</body>
-      </html>
-    `);
-    newWindow.document.close();
-    closeDropdown();
-  });
-
-  document.querySelector('.open-chatgpt')?.addEventListener('click', () => {
-    const currentPageUrl = window.location.href;
-    const prompt = `Read ${currentPageUrl} so I can ask questions about it.`;
-    window.open(`https://chat.openai.com/?hint=search&q=${encodeURIComponent(prompt)}`, '_blank');
-    closeDropdown();
+      setSelected(actionKey);
+      closeDropdown();
+      await ACTIONS[actionKey].run();
+    });
   });
 
   
@@ -240,6 +310,9 @@ document.addEventListener('DOMContentLoaded', () => {
       closeDropdown();
     }
   });
+
+  
+  setSelected(selectedAction);
 });
 </script>
 
@@ -292,6 +365,13 @@ document.addEventListener('DOMContentLoaded', () => {
   flex-shrink: 0;
 }
 
+.button-icon,
+.item-icon {
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+
 .chevron-icon {
   width: 1.25rem;
   height: 1.25rem;
@@ -310,7 +390,7 @@ document.addEventListener('DOMContentLoaded', () => {
   border-radius: 1rem;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
   z-index: 50;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: inherit;
 }
 
 .dropdown-menu.hidden {
@@ -338,6 +418,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
 .dropdown-item:hover {
   background-color: #F8FAFC;
+}
+
+.dropdown-item.is-selected {
+  background-color: rgba(59, 130, 246, 0.12);
 }
 
 .dropdown-item-content {
@@ -420,18 +504,31 @@ document.addEventListener('DOMContentLoaded', () => {
     background-color: rgba(255, 255, 255, 0.1);
   }
 }
-</style> 
+
+ 
+.page-actions .dropdown-menu {
+  min-width: 18rem;
+}
+
+ 
+.page-actions .item-description {
+  white-space: nowrap;
+}
+</style>
 				</div>
 				<div class="home-content">
-					<p>I’m Sergey, a senior technical writer with 10+ years of experience helping teams ship clear, consistent documentation for complex software. I work across end-user documentation, developer docs (APIs and SDKs), and documentation operations, with a strong focus on information architecture, standards, and scalable docs-as-code workflows.</p>
-<p>I partner closely with product, design, engineering, and support to turn fast-moving releases into guidance users can trust, and to build documentation systems that stay accurate as products evolve.</p>
+					<p>I’m Sergey, a technical writer with 10+ years of experience helping teams ship clear, consistent documentation for complex software. I work across end-user documentation, developer documentation for APIs and SDKs, and documentation operations, with a strong focus on information architecture, standards, and scalable docs-as-code workflows.</p>
+<p>I partner closely with product, design, engineering, and support to turn fast-moving releases into guidance users can trust, and to build documentation systems that stay accurate as products evolve. I use LLMs as part of my workflow to stay productive, scale updates across large sets of articles, and maintain consistency with established style guides.</p>
+<p>Outside of work, I stay active and social. I play pickleball, run regularly, and look for ways to move every day. I enjoy being around people and tend to connect easily. I value strong friendships and conversations that feel real.</p>
+<p>I am also curious about the inner workings of the mind. Psychology has long interested me, especially motivation, behavior, and self-awareness. I spend time reflecting, observing patterns, and understanding how people think. I am a good listener and appreciate thoughtful, honest dialogue.</p>
 <p>You can explore my <a href="/portfolio">writing portfolio</a>, view my <a href="/resume">resume</a>, or get in touch:</p>
 <ul>
-<li>GitHub: <a href="https://github.com/caphesuagey">caphesuagey</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/sergrodin/">sergrodin</a></li>
-<li>Email: <a href="mailto:contact@sergeyrodin.com">contact@sergeyrodin.com</a></li>
-<li>Telegram: <a href="https://t.me/caphesuagey">@caphesuagey</a></li>
-<li>Phone number (Vietnam): +84702963470</li>
+<li><a href="mailto:contact@sergeyrodin.com">contact@sergeyrodin.com</a></li>
+<li><a href="tel:+84702963470">+84 702 963 470</a></li>
+<li><a href="https://www.linkedin.com/in/sergrodin/">LinkedIn</a></li>
+<li><a href="https://www.instagram.com/caphesuagey/">Instagram</a></li>
+<li><a href="https://github.com/caphesuagey">GitHub</a></li>
+<li><a href="https://t.me/caphesuagey">Telegram</a></li>
 </ul>
 
 				</div>

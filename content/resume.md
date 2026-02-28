@@ -1,23 +1,22 @@
 ---
 title: "Resume"
 description: "Sergey Rodin's resume, showcasing technical writing experience, skills, and achievements."
-date: 2026-01-25
 slug: "resume"
 images:
   - "/images/profile.png"
 ---
 
-I’m Sergey, a senior technical writer with 10+ years of experience helping teams ship clear, consistent documentation for complex software. I work across end-user documentation, developer docs (APIs and SDKs), and documentation operations, with a strong focus on information architecture, standards, and scalable docs-as-code workflows. I partner closely with product, design, engineering, and support to turn fast-moving releases into guidance users can trust, and to build documentation systems that stay accurate as products evolve. Known for stepping in where needed, closing feedback loops, and raising the quality bar on clarity.
+I’m a senior technical writer with 10+ years of experience building scalable documentation for complex software products. My work spans end-user guidance, developer documentation for APIs and SDKs, and documentation operations, with a strong focus on information architecture and standards.
 
-* GitHub: [caphesuagey](https://github.com/caphesuagey)
-* LinkedIn: [sergrodin](https://www.linkedin.com/in/sergrodin/)
-* Email: [contact@sergeyrodin.com](mailto:contact@sergeyrodin.com)
+I partner closely with product, design, engineering, and support to ship launch-ready documentation, close user feedback loops, and raise documentation quality across teams. I use LLMs as part of my workflow to scale updates efficiently while maintaining consistency with established style guides.
+
+[contact@sergeyrodin.com](mailto:contact@sergeyrodin.com) | [LinkedIn](https://www.linkedin.com/in/sergrodin/)
 
 ## Work experience
 
 ### Technical writer | Phantom (April 2025 - present) | Remote, Vietnam
 
-At Phantom, I’m part of the Customer Happiness team, where I focus on making sure users always have clear, accurate, and helpful information at their fingertips. My work spans Help Center content ([help.phantom.com](https://help.phantom.com/hc/en-us)), developer docs ([docs.phantom.com](https://docs.phantom.com)) UI writing, user advocacy, and chatbot maintenance.
+At Phantom, I’m part of the Customer Happiness team, where I focus on making sure users always have clear, accurate, and helpful information at their fingertips. My work spans the Phantom Help Center content ([help.phantom.com](https://help.phantom.com/hc/en-us)), developer docs ([docs.phantom.com](https://docs.phantom.com)), UI writing, user advocacy, and chatbot maintenance.
 
 #### Highlights
 

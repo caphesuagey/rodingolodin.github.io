@@ -9,9 +9,6 @@
             <h1 class="title">{{ .Title }}</h1>
             {{ partial "page-actions.html" . }}
           </div>
-          <div class="meta">
-            Updated on {{ dateFormat ":date_medium" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}
-          </div>
         </div>
         {{ if isset .Params "tldr" }}
         <div class="tldr">
