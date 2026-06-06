@@ -69,6 +69,7 @@
 				<div class="page-header">
 					<h1>About me</h1>
 					
+
 <div class="page-actions">
   <div>
     <button
@@ -79,8 +80,10 @@
       aria-haspopup="true"
     >
       <div class="button-content">
-        <svg class="button-icon" id="main-action-icon" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"></svg>
-        <span class="button-text">Open in ChatGPT</span>
+        <svg class="button-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7v8a2 2 0 002 2h6M8 7V5a2 2 0 012-2h4.586a1 1 0 01.707.293l4.414 4.414a1 1 0 01.293.707V15a2 2 0 01-2 2h-2M8 7H6a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2v-2"></path>
+        </svg>
+        <span class="button-text">Copy for LLM</span>
       </div>
 
       <div class="button-separator"></div>
@@ -95,25 +98,13 @@
 
   <div class="dropdown-menu hidden" role="menu" aria-orientation="vertical" aria-labelledby="page-actions-button">
     <div class="dropdown-content">
-      <button class="open-chatgpt dropdown-item is-selected" role="menuitem" data-action="open-chatgpt">
-        <div class="dropdown-item-content">
-          <svg class="item-icon" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-            <path d="M22.2819 9.8211a5.9847 5.9847 0 0 0-.5157-4.9108 6.0462 6.0462 0 0 0-6.5098-2.9A6.0651 6.0651 0 0 0 4.9807 4.1818a5.9847 5.9847 0 0 0-3.9977 2.9 6.0462 6.0462 0 0 0 .7427 7.0966 5.98 5.98 0 0 0 .511 4.9107 6.051 6.051 0 0 0 6.5146 2.9001A5.9847 5.9847 0 0 0 13.2599 24a6.0557 6.0557 0 0 0 5.7718-4.2058 5.9894 5.9894 0 0 0 3.9977-2.9001 6.0557 6.0557 0 0 0-.7475-7.0729zm-9.022 12.6081a4.4755 4.4755 0 0 1-2.8764-1.0408l.1419-.0804 4.7783-2.7582a.7948.7948 0 0 0 .3927-.6813v-6.7369l2.02 1.1686a.071.071 0 0 1 .038.052v5.5826a4.504 4.504 0 0 1-4.4945 4.4944zm-9.6607-4.1254a4.4708 4.4708 0 0 1-.5346-3.0137l.142.0852 4.783 2.7582a.7712.7712 0 0 0 .7806 0l5.8428-3.3685v2.3324a.0804.0804 0 0 1-.0332.0615L9.74 19.9502a4.4992 4.4992 0 0 1-6.1408-1.6464zM2.3408 7.8956a4.485 4.485 0 0 1 2.3655-1.9728V11.6a.7664.7664 0 0 0 .3879.6765l5.8144 3.3543-2.0201 1.1685a.0757.0757 0 0 1-.071 0l-4.8303-2.7865A4.504 4.504 0 0 1 2.3408 7.8956zm16.0993 3.8558L12.6 8.3829 14.6201 7.2144a.0757.0757 0 0 1 .071 0l4.8303 2.7913a4.4944 4.4944 0 0 1-.6765 8.1042v-5.6772a.79.79 0 0 0-.4069-.6813zm2.0107-3.0231l-.142-.0852-4.7735-2.7818a.7759.7759 0 0 0-.7854 0L9.409 9.2297V6.8974a.0662.0662 0 0 1 .0284-.0615l4.8303-2.7866a4.4992 4.4992 0 0 1 6.1408 1.6465 4.4708 4.4708 0 0 1 .5346 3.0137zM8.3065 12.863l-2.02-1.1638a.0804.0804 0 0 1-.038-.0567V6.0742a4.4992 4.4992 0 0 1 7.3757-3.4537l-.142.0805L8.704 5.459a.7948.7948 0 0 0-.3927.6813zm1.0976-2.3654l2.602-1.4998 2.6069 1.4998v2.9994l-2.5974 1.4997-2.6067-1.4997Z"/>
-          </svg>
-          <span>
-            Open in ChatGPT
-            <span class="item-description">Ask questions about this page</span>
-          </span>
-        </div>
-      </button>
-
-      <button class="copy-page dropdown-item" role="menuitem" data-action="copy-page">
+      <button class="copy-page dropdown-item is-selected" role="menuitem" data-action="copy-page">
         <div class="dropdown-item-content">
           <svg class="item-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7v8a2 2 0 002 2h6M8 7V5a2 2 0 012-2h4.586a1 1 0 01.707.293l4.414 4.414a1 1 0 01.293.707V15a2 2 0 01-2 2h-2M8 7H6a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2v-2"></path>
           </svg>
           <span>
-            Copy page
+            Copy for LLM
             <span class="item-description">Copy page as Markdown for LLMs</span>
           </span>
         </div>
@@ -134,7 +125,6 @@
     </div>
   </div>
 </div>
-
 
 <div id="raw-content" style="display:none;">
 I’m Sergey, a technical writer with 10&#43; years of experience helping teams ship clear, consistent documentation for complex software. I work across end-user documentation, developer documentation for APIs and SDKs, and documentation operations, with a strong focus on information architecture, standards, and scalable docs-as-code workflows.
@@ -160,49 +150,46 @@ document.addEventListener('DOMContentLoaded', () => {
   const button = document.getElementById('page-actions-button');
   const menu = document.querySelector('.dropdown-menu');
   const buttonText = button?.querySelector('.button-text');
-  const toggleArea = button?.querySelector('.dropdown-toggle-area');
 
-  if (!button || !menu || !buttonText || !toggleArea) return;
+  if (!button || !menu || !buttonText) return;
 
-  const ACTIONS = {
-    'open-chatgpt': {
-      label: 'Open in ChatGPT',
-      run: () => {
-        const currentPageUrl = window.location.href;
-        const prompt = `Read ${currentPageUrl} so I can ask questions about it.`;
-        window.open(
-          `https://chat.openai.com/?hint=search&q=${encodeURIComponent(prompt)}`,
-          '_blank',
-          'noopener,noreferrer'
-        );
-      }
-    },
-    'copy-page': {
-      label: 'Copy page',
-      run: async () => {
-        const content = getMarkdownContent();
-        try {
-          await navigator.clipboard.writeText(content);
-          showCopiedFeedback();
-        } catch (err) {
-          console.error('Failed to copy:', err);
-        }
-      }
-    },
-    'view-markdown': {
-      label: 'View as Markdown',
-      run: () => {
-        const content = getMarkdownContent();
-        const newWindow = window.open('', '_blank');
-        if (!newWindow) return;
+  const getMarkdownContent = () => {
+    const rawContent = document.getElementById('raw-content');
+    return rawContent ? rawContent.textContent : '';
+  };
 
-        const escaped = content
-          .replace(/&/g, '&amp;')
-          .replace(/</g, '&lt;')
-          .replace(/>/g, '&gt;');
+  const showCopiedFeedback = () => {
+    const previous = buttonText.textContent;
+    buttonText.textContent = 'Copied';
 
-        newWindow.document.open();
-        newWindow.document.write(`
+    setTimeout(() => {
+      buttonText.textContent = previous;
+    }, 2000);
+  };
+
+  const copyContent = async () => {
+    const content = getMarkdownContent();
+
+    try {
+      await navigator.clipboard.writeText(content);
+      showCopiedFeedback();
+    } catch (err) {
+      console.error('Failed to copy:', err);
+    }
+  };
+
+  const viewMarkdown = () => {
+    const content = getMarkdownContent();
+    const newWindow = window.open('', '_blank');
+    if (!newWindow) return;
+
+    const escaped = content
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;');
+
+    newWindow.document.open();
+    newWindow.document.write(`
 <!DOCTYPE html>
 <html>
 <head>
@@ -212,11 +199,14 @@ document.addEventListener('DOMContentLoaded', () => {
 <style>
 body {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Courier New", monospace;
-  white-space: pre-wrap;
   padding: 8px 12px;
-  max-width: 800px;
   margin: 0;
   line-height: 1.5;
+}
+pre {
+  margin: 0;
+  white-space: pre-wrap;
+  font: inherit;
 }
 </style>
 </head>
@@ -224,38 +214,36 @@ body {
 <pre>${escaped}</pre>
 </body>
 </html>
-        `);
-        newWindow.document.close();
-      }
+    `);
+    newWindow.document.close();
+  };
+
+  const ACTIONS = {
+    'copy-page': {
+      label: 'Copy for LLM',
+      run: copyContent
+    },
+    'view-markdown': {
+      label: 'View as Markdown',
+      run: viewMarkdown
     }
   };
 
-  const ICONS = {
-    'open-chatgpt': `
-      <path d="M22.2819 9.8211a5.9847 5.9847 0 0 0-.5157-4.9108 6.0462 6.0462 0 0 0-6.5098-2.9A6.0651 6.0651 0 0 0 4.9807 4.1818a5.9847 5.9847 0 0 0-3.9977 2.9 6.0462 6.0462 0 0 0 .7427 7.0966 5.98 5.98 0 0 0 .511 4.9107 6.051 6.051 0 0 0 6.5146 2.9001A5.9847 5.9847 0 0 0 13.2599 24a6.0557 6.0557 0 0 0 5.7718-4.2058 5.9894 5.9894 0 0 0 3.9977-2.9001 6.0557 6.0557 0 0 0-.7475-7.0729zm-9.022 12.6081a4.4755 4.4755 0 0 1-2.8764-1.0408l.1419-.0804 4.7783-2.7582a.7948.7948 0 0 0 .3927-.6813v-6.7369l2.02 1.1686a.071.071 0 0 1 .038.052v5.5826a4.504 4.504 0 0 1-4.4945 4.4944zm-9.6607-4.1254a4.4708 4.4708 0 0 1-.5346-3.0137l.142.0852 4.783 2.7582a.7712.7712 0 0 0 .7806 0l5.8428-3.3685v2.3324a.0804.0804 0 0 1-.0332.0615L9.74 19.9502a4.4992 4.4992 0 0 1-6.1408-1.6464zM2.3408 7.8956a4.485 4.485 0 0 1 2.3655-1.9728V11.6a.7664.7664 0 0 0 .3879.6765l5.8144 3.3543-2.0201 1.1685a.0757.0757 0 0 1-.071 0l-4.8303-2.7865A4.504 4.504 0 0 1 2.3408 7.8956zm16.0993 3.8558L12.6 8.3829 14.6201 7.2144a.0757.0757 0 0 1 .071 0l4.8303 2.7913a4.4944 4.4944 0 0 1-.6765 8.1042v-5.6772a.79.79 0 0 0-.4069-.6813zm2.0107-3.0231l-.142-.0852-4.7735-2.7818a.7759.7759 0 0 0-.7854 0L9.409 9.2297V6.8974a.0662.0662 0 0 1 .0284-.0615l4.8303-2.7866a4.4992 4.4992 0 0 1 6.1408 1.6465 4.4708 4.4708 0 0 1 .5346 3.0137zM8.3065 12.863l-2.02-1.1638a.0804.0804 0 0 1-.038-.0567V6.0742a4.4992 4.4992 0 0 1 7.3757-3.4537l-.142.0805L8.704 5.459a.7948.7948 0 0 0-.3927.6813zm1.0976-2.3654l2.602-1.4998 2.6069 1.4998v2.9994l-2.5974 1.4997-2.6067-1.4997Z"/>
-    `,
-    'copy-page': `
-      <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none"
-        d="M8 7v8a2 2 0 002 2h6M8 7V5a2 2 0 012-2h4.586a1 1 0 01.707.293l4.414 4.414a1 1 0 01.293.707V15a2 2 0 01-2 2h-2M8 7H6a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2v-2"/>
-    `,
-    'view-markdown': `
-      <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none"
-        d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
-      <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none"
-        d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/>
-    `
-  };
+  let selectedAction = 'copy-page';
 
-  let selectedAction = 'open-chatgpt';
+  const setSelected = (actionKey) => {
+    selectedAction = actionKey;
+    buttonText.textContent = ACTIONS[actionKey].label;
 
-  const getMarkdownContent = () => {
-    const rawContent = document.getElementById('raw-content');
-    return rawContent ? rawContent.textContent : '';
+    menu.querySelectorAll('.dropdown-item').forEach((el) => {
+      el.classList.toggle('is-selected', el.dataset.action === actionKey);
+    });
   };
 
   const toggleDropdown = (e) => {
     e.stopPropagation();
     const expanded = button.getAttribute('aria-expanded') === 'true';
+
     button.setAttribute('aria-expanded', String(!expanded));
     menu.classList.toggle('hidden');
   };
@@ -265,34 +253,12 @@ body {
     menu.classList.add('hidden');
   };
 
-  const showCopiedFeedback = () => {
-    const previous = buttonText.textContent;
-    buttonText.textContent = 'Copied';
-    setTimeout(() => {
-      buttonText.textContent = previous;
-    }, 2000);
-  };
-
-  const mainIcon = document.getElementById('main-action-icon');
-
-  const setSelected = (actionKey) => {
-    selectedAction = actionKey;
-    buttonText.textContent = ACTIONS[actionKey].label;
-
-    if (mainIcon && ICONS[actionKey]) {
-      mainIcon.innerHTML = ICONS[actionKey];
-    }
-
-    menu.querySelectorAll('.dropdown-item').forEach((el) => {
-      el.classList.toggle('is-selected', el.dataset.action === actionKey);
-    });
-  };
-
   button.addEventListener('click', (e) => {
     if (e.target.closest('.dropdown-toggle-area')) {
       toggleDropdown(e);
       return;
     }
+
     ACTIONS[selectedAction].run();
   });
 
@@ -324,46 +290,51 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  .page-actions .dropdown-toggle {
-    background-color: rgba(255, 255, 255, 0.1);
-    border-color: rgba(255, 255, 255, 0.1);
-    color: rgba(255, 255, 255, 0.9);
-  }
-
-  .page-actions .dropdown-toggle:hover {
-    background-color: rgba(255, 255, 255, 0.15);
-  }
-
-  .page-actions .dropdown-menu {
-    background-color: rgb(32, 33, 35);
-    border-color: rgba(255, 255, 255, 0.1);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
-  }
-
-  .page-actions .dropdown-item {
-    color: rgba(255, 255, 255, 0.9);
-  }
-
-  .page-actions .dropdown-item:hover {
-    background-color: rgba(255, 255, 255, 0.1);
-  }
-
-  .page-actions .item-description {
-    color: rgba(255, 255, 255, 0.5);
-  }
-
-  .page-actions .button-icon,
-  .page-actions .item-icon,
-  .page-actions .chevron-icon {
-    color: rgba(255, 255, 255, 0.5);
-  }
+.dropdown-toggle {
+  display: flex;
+  align-items: center;
+  padding: 0;
+  font-size: 0.9375rem;
+  color: #4B5563;
+  background-color: #fff;
+  border: 1px solid #E5E7EB;
+  border-radius: 1rem;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+  font-family: inherit;
+  overflow: hidden;
 }
 
-.button-icon {
-  width: 1.25rem;
-  height: 1.25rem;
-  flex-shrink: 0;
+.dropdown-toggle:hover {
+  background-color: #F8FAFC;
+}
+
+.dropdown-toggle:focus {
+  outline: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.button-content {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.625rem 1rem;
+  flex: 1;
+  min-width: 0;
+}
+
+.button-separator {
+  width: 1px;
+  align-self: stretch;
+  background-color: #E5E7EB;
+}
+
+.dropdown-toggle-area {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.625rem;
+  cursor: pointer;
 }
 
 .button-icon,
@@ -371,6 +342,7 @@ body {
   width: 20px;
   height: 20px;
   display: block;
+  flex-shrink: 0;
 }
 
 .chevron-icon {
@@ -384,7 +356,7 @@ body {
   position: absolute;
   right: 0;
   margin-top: 0.5rem;
-  min-width: 16rem;
+  min-width: 18rem;
   padding: 0.5rem;
   background-color: #fff;
   border: 1px solid rgba(0, 0, 0, 0.08);
@@ -396,10 +368,6 @@ body {
 
 .dropdown-menu.hidden {
   display: none;
-}
-
-.dropdown-content {
-  padding: 0;
 }
 
 .dropdown-item {
@@ -430,12 +398,14 @@ body {
   align-items: flex-start;
 }
 
+.dropdown-item-content > span {
+  display: flex;
+  flex-direction: column;
+}
+
 .item-icon {
-  width: 1.25rem;
-  height: 1.25rem;
   margin-right: 0.75rem;
   margin-top: 0.125rem;
-  flex-shrink: 0;
   color: #6B7280;
 }
 
@@ -445,73 +415,45 @@ body {
   color: #9CA3AF;
   font-size: 0.8125rem;
   font-weight: normal;
-}
-
-.dropdown-toggle {
-  display: flex;
-  align-items: center;
-  padding: 0;
-  font-size: 0.9375rem;
-  color: #4B5563;
-  background-color: #fff;
-  border: 1px solid #E5E7EB;
-  border-radius: 1rem;
-  cursor: pointer;
-  transition: all 0.15s ease-in-out;
-  font-family: inherit;
-  overflow: hidden;
-}
-
-.dropdown-toggle:hover {
-  background-color: #F8FAFC;
-}
-
-.dropdown-toggle:focus {
-  outline: none;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-}
-
-.dropdown-item-content > span {
-  display: flex;
-  flex-direction: column;
-}
-
-.button-content {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  padding: 0.625rem 1rem;
-  flex: 1;
-  min-width: 0;
-}
-
-.button-separator {
-  width: 1px;
-  align-self: stretch;
-  background-color: #E5E7EB;
-}
-
-.dropdown-toggle-area {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0.625rem;
-  border-left: none;
-  cursor: pointer;
+  white-space: nowrap;
 }
 
 @media (prefers-color-scheme: dark) {
+  .page-actions .dropdown-toggle {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.9);
+  }
+
+  .page-actions .dropdown-toggle:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+  }
+
+  .page-actions .dropdown-menu {
+    background-color: rgb(32, 33, 35);
+    border-color: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  }
+
+  .page-actions .dropdown-item {
+    color: rgba(255, 255, 255, 0.9);
+  }
+
+  .page-actions .dropdown-item:hover,
+  .page-actions .dropdown-item.is-selected {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .page-actions .item-description,
+  .page-actions .button-icon,
+  .page-actions .item-icon,
+  .page-actions .chevron-icon {
+    color: rgba(255, 255, 255, 0.5);
+  }
+
   .button-separator {
     background-color: rgba(255, 255, 255, 0.1);
   }
-}
-
-.page-actions .dropdown-menu {
-  min-width: 18rem;
-}
-
-.page-actions .item-description {
-  white-space: nowrap;
 }
 </style>
 				</div>
