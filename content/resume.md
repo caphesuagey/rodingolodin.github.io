@@ -18,7 +18,7 @@ I partner closely with product, design, engineering, and support to ship launch-
 
 At Phantom, I’m part of the Customer Happiness team, where I focus on making sure users always have clear, accurate, and helpful information at their fingertips. My work spans the Phantom Help Center content ([help.phantom.com](https://help.phantom.com/hc/en-us)), developer docs ([docs.phantom.com](https://docs.phantom.com)), UI writing, user advocacy, and chatbot maintenance.
 
-#### Highlights
+#### Achievements
 
 * Help Center quality and consistency: Restructured and standardized articles so users get the same reliable answers across Help Center and chatbot responses.
 * Day-one documentation: Built a process for launch-ready docs for major releases (including Phantom Cash, Prediction Markets, Perps, Terminal, Chats, and PSOL), with proactive updates as features evolve.

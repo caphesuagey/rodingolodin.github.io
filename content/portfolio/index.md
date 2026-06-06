@@ -16,11 +16,11 @@ My work spans from user-facing product guidance to developer platforms. I focus 
 
 All of the articles in this section have been published in the Phantom Help Center at [help.phantom.com](https://help.phantom.com/hc/en-us).
 
-* [Phantom Cash article set](https://help.phantom.com/hc/en-us/sections/44633337948179-Phantom-Cash)
-* [What to do if you were scammed](https://help.phantom.com/hc/en-us/articles/5487893286291-What-to-do-if-you-were-scammed)
-* [Trade tokens and perps in Phantom Terminal](https://help.phantom.com/hc/en-us/articles/46527102843027-Trade-tokens-and-perps-in-Phantom-on-desktop)
+* [Cash article set](https://help.phantom.com/hc/en-us/sections/44633337948179-Cash)
+* [I was scammed or my wallet was drained. What can I do?](https://help.phantom.com/hc/en-us/articles/5487893286291-What-to-do-if-you-were-scammed)
+* [Check a token's contract address before you interact with it](https://help.phantom.com/hc/en-us/articles/40156023225235-Check-a-token-s-contract-address-before-you-interact-with-it)
+* [Swap tokens in Phantom](https://help.phantom.com/hc/en-us/articles/5985106844435-Swap-tokens-in-Phantom)
 * [Trade perps in Phantom on mobile](https://help.phantom.com/hc/en-us/articles/42292249388307-Trade-perps-in-Phantom-on-mobile)
-* [Perp trading FAQ](https://help.phantom.com/hc/en-us/articles/45430872495123-Phantom-perps-FAQ)
 * [Chat with other traders in Phantom](https://help.phantom.com/hc/en-us/articles/44454103123731-Chat-with-other-traders-in-Phantom)
 
 ### Developer documentation
@@ -34,11 +34,6 @@ All of the articles in this section have been published in the Phantom Help Cent
 
 * [Integrate your backend with the Ronin Store API for basic integration](https://docs.skymavis.com/mavis/mavis-store/guides/basic/integrate)
 * [Send a transaction](https://docs.skymavis.com/mavis/mpc/guides/create-transaction)
-
-### Tutorials
-
-* [Connect to Ronin Wallet using an injected provider (EIP-6963)](https://docs.skymavis.com/ronin/wallet/tutorials/connect-web)
-* [Deploy a smart contract](https://docs.skymavis.com/ronin/smart-contracts/tutorials/deploy)
 
 ### Reference
 
