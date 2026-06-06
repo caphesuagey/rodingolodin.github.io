@@ -35,11 +35,6 @@ All of the articles in this section have been published in the Phantom Help Cent
 * [Integrate your backend with the Ronin Store API for basic integration](https://docs.skymavis.com/mavis/mavis-store/guides/basic/integrate)
 * [Send a transaction](https://docs.skymavis.com/mavis/mpc/guides/create-transaction)
 
-### Tutorials
-
-* [Connect to Ronin Wallet using an injected provider (EIP-6963)](https://docs.skymavis.com/ronin/wallet/tutorials/connect-web)
-* [Deploy a smart contract](https://docs.skymavis.com/ronin/smart-contracts/tutorials/deploy)
-
 ### Reference
 
 * [API reference](https://docs.skymavis.com/api/mavis-store)
