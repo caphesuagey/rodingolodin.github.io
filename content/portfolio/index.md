@@ -6,15 +6,15 @@ images:
   - /images/profile.png
 ---
 
-This page contains selected examples of documentation I’ve written across end-user help centers, developer documentation, APIs, SDKs, and technical explainers.
+This page contains selected examples of documentation I've written across end-user help centers, developer documentation, APIs, SDKs, and technical reference content.
 
-My work spans from user-facing product guidance to developer platforms. I focus on information architecture, consistency, and building documentation systems that scale as products evolve.
+My work focuses on making complex products easier to understand and adopt. I design documentation that is accurate, scalable, and easy to maintain, from user-facing guidance to developer platforms.
 
 ## Phantom
 
 ### End-user help articles
 
-All of the articles in this section have been published in the Phantom Help Center at [help.phantom.com](https://help.phantom.com/hc/en-us).
+All articles in this section are published in the Phantom Help Center at [help.phantom.com](https://help.phantom.com/hc/en-us).
 
 * [Cash article set](https://help.phantom.com/hc/en-us/sections/44633337948179-Cash)
 * [I was scammed or my wallet was drained. What can I do?](https://help.phantom.com/hc/en-us/articles/5487893286291-What-to-do-if-you-were-scammed)
@@ -50,4 +50,4 @@ All of the articles in this section have been published in the Phantom Help Cent
 
 ## Ninja Van
 
-[API reference](https://api-docs.ninjavan.co/en)
+* [API reference](https://api-docs.ninjavan.co/en)
