@@ -155,7 +155,6 @@ h4 {
   align-items: flex-start !important;
   justify-content: space-between !important;
   gap: 1rem;
-  max-width: 740px;
   margin-bottom: 1.6rem;
 }
 
@@ -243,7 +242,7 @@ img {
 }
 
 .home-content {
-  margin: 0;
+  margin: 0 auto;
 }
 
 .tldr,
