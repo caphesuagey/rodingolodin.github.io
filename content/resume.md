@@ -11,7 +11,7 @@ I work with product, design, engineering, and support to get documentation ready
 
 AI tools help me update content efficiently, while I review the results for consistency with established style guides.
 
-[contact@sergeyrodin.com](mailto:contact@sergeyrodin.com) | [LinkedIn](https://www.linkedin.com/in/sergrodin/)
+[contact@sergeyrodin.com](mailto:contact@sergeyrodin.com) | [LinkedIn](https://www.linkedin.com/in/sergrodin/) | [Download resume (PDF)](/files/resume.pdf)
 
 ## Work experience
 
