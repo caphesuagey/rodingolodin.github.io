@@ -8,7 +8,7 @@ images:
 
 I’m a senior technical writer with 10+ years of experience building scalable documentation for complex software products. My work spans end-user guidance, developer documentation for APIs and SDKs, and documentation operations, with a strong focus on information architecture and standards.
 
-I partner closely with product, design, engineering, and support to ship launch-ready documentation, close user feedback loops, and raise documentation quality across teams. I use LLMs as part of my workflow to scale updates efficiently while maintaining consistency with established style guides.
+I partner closely with product, design, engineering, and support to ship launch-ready documentation, close user feedback loops, and raise documentation quality across teams. I use AI as part of my workflow to scale updates efficiently while maintaining consistency with established style guides.
 
 [contact@sergeyrodin.com](mailto:contact@sergeyrodin.com) | [LinkedIn](https://www.linkedin.com/in/sergrodin/)
 
@@ -16,11 +16,12 @@ I partner closely with product, design, engineering, and support to ship launch-
 
 ### Technical writer | Phantom (April 2025 - present) | Remote, Vietnam
 
-At Phantom, I’m part of the Customer Happiness team, where I focus on making sure users always have clear, accurate, and helpful information at their fingertips. My work spans the Phantom Help Center content ([help.phantom.com](https://help.phantom.com/hc/en-us)), developer docs ([docs.phantom.com](https://docs.phantom.com)), UI writing, user advocacy, and chatbot maintenance.
+At Phantom, I’m part of the Customer Happiness team, where I focus on making sure users always have clear, accurate, and helpful information at their fingertips. My work spans the Phantom Help Center content ([help.phantom.com](https://help.phantom.com/hc/en-us)), developer docs ([docs.phantom.com](https://docs.phantom.com)), UI writing, user advocacy, and AI chatbot maintenance.
 
 #### Achievements
 
-* Help Center quality and consistency: Restructured and standardized articles so users get the same reliable answers across Help Center and chatbot responses.
+* Help Center redesign: Planned and coordinated a Help Center redesign to align it with Phantom's brand identity.
+* Quality and consistency: Restructured and standardized articles so users get the same reliable answers across Help Center and chatbot responses.
 * Day-one documentation: Built a process for launch-ready docs for major releases (including Phantom Cash, Prediction Markets, Perps, Terminal, Chats, and PSOL), with proactive updates as features evolve.
 * Style and standards: Revived the internal style guide and expanded it beyond Help Center docs to support UI writing and cross-team collaboration.
 * In-app clarity: Partnered on reviews for major features to keep in-app wording intuitive and user-friendly.
