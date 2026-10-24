@@ -6,9 +6,10 @@ images:
   - "/images/profile.png"
 ---
 
-I’m a senior technical writer with 10+ years of experience building scalable documentation for complex software products. My work spans end-user guidance, developer documentation for APIs and SDKs, and documentation operations, with a strong focus on information architecture and standards.
+I’m a senior technical writer with 10+ years of experience documenting complex software products, from end-user guides to API and SDK documentation. I also build the information architecture, standards, and workflows that help documentation grow with a product.
+I work with product, design, engineering, and support to get documentation ready for launch and use feedback from users to improve it.
 
-I partner closely with product, design, engineering, and support to ship launch-ready documentation, close user feedback loops, and raise documentation quality across teams. I use AI as part of my workflow to scale updates efficiently while maintaining consistency with established style guides.
+AI tools help me update content efficiently, while I review the results for consistency with established style guides.
 
 [contact@sergeyrodin.com](mailto:contact@sergeyrodin.com) | [LinkedIn](https://www.linkedin.com/in/sergrodin/)
 
@@ -136,6 +137,10 @@ Translated 10+ projects from English to Russian for a major hotel chain based in
 ### Bachelor of linguistics | Linguistics University of Nizhny Novgorod (Jan 2009 - Jan 2012)
 
 Specialized in the theory and methods of teaching foreign languages (English).
+
+## Projects
+
+I represented Phantom at Solana Breakpoint 2025 in Abu Dhabi, UAE. Although I was invited primarily to meet coworkers, I volunteered alongside colleagues at the company’s booth, answering users’ questions and connecting developers and builders with the right teams. After the conference, I received an MVP shout-out at the company’s all-hands meeting.
 
 ## References
 
