@@ -116,9 +116,9 @@ Translated 10+ projects from English to Russian for a major hotel chain based in
 
 ## Certifications
 
-* **Prompt engineering for ChatGPT** (Dec 2024) – Coursera (Credential ID: HU01LBWUWN7G)
-* **Back-end Python developer professional training** (Apr 2021) – Yandex School of Data Analysis
-* **Snagit certification** (Apr 2020) – TechSmith (Credential ID: j5tzccby8bnp)
+* Prompt engineering for ChatGPT (Dec 2024) – Coursera (Credential ID: HU01LBWUWN7G)
+* Back-end Python developer professional training (Apr 2021) – Yandex School of Data Analysis
+* Snagit certification (Apr 2020) – TechSmith (Credential ID: j5tzccby8bnp)
 
 ## Languages
 
@@ -128,9 +128,8 @@ Translated 10+ projects from English to Russian for a major hotel chain based in
 
 ## Skills
 
-**Soft skills**: Customer communication, conflict resolution, project management, team collaboration, critical thinking, attention to detail.
-
-**Tools & technologies**: Docusaurus, Markdown, HTML, Git, command line, docs-as-code, Visual Studio Code, Vale, SnagIt, Draw.io, PlantUML, Mermaid, C4 Model, prompt engineering, Figma.
+* Soft skills: Customer communication, conflict resolution, project management, team collaboration, critical thinking, attention to detail.
+* Tools & technologies: Codex, Claude Code, Figma, Docusaurus, Markdown, HTML, Git, command line, docs-as-code, Visual Studio Code, Vale, SnagIt, Draw.io, PlantUML, Mermaid, C4 model, prompt engineering.
 
 ## Education
 
@@ -140,9 +139,4 @@ Specialized in the theory and methods of teaching foreign languages (English).
 
 ## References
 
-* **Arturo Locsin** (Head of Tech Lab at Ninja Van) – [arturo.locsin@ninjavan.co](mailto:arturo.locsin@ninjavan.co)
-* **Quy Dau ("Bean")** (Product Manager at Sky Mavis) – [bean@skymavis.com](mailto:bean@skymavis.com)
-* **Immanuel Cruz** (Publishing Lead at Sky Mavis) – [immanuel.cruz@skymavis.com](mailto:immanuel.cruz@skymavis.com)
-* **David Pazdan** (Head of Customer Happiness at Phantom) - [david@phantom.app](mailto:david@phantom.app)
-
-Recommendation letters available upon request.
+References and recommendation letters available upon request.
