@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.sergeyrodin.com/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://www.sergeyrodin.com/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
-    <loc>https://www.sergeyrodin.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://www.sergeyrodin.com/portfolio/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
   </url><url>
-    <loc>https://www.sergeyrodin.com/resume/</loc>
+    <loc>http://localhost:1313/resume/</loc>
   </url><url>
-    <loc>https://www.sergeyrodin.com/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url><url>
-    <loc>https://www.sergeyrodin.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

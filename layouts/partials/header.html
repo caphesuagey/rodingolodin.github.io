@@ -10,7 +10,13 @@
 	{{- end -}}
 
 	{{- if isset .Site.Params "favicon" -}}
-	<link rel="icon" type="image/png" href={{ .Site.Params.favicon }} />
+	<link rel="icon" type="image/png" href="{{ .Site.Params.favicon }}" />
+	{{- else -}}
+	{{- $favicon := resources.Get "images/favicon.png" -}}
+	{{- range slice 32 64 -}}
+	{{- $icon := ($favicon.Resize (printf "%dx%d" . .)) | fingerprint -}}
+	<link rel="icon" type="image/png" sizes="{{ . }}x{{ . }}" href="{{ $icon.RelPermalink }}" />
+	{{- end -}}
 	{{- end -}}
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
