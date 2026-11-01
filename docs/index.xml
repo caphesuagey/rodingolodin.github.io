@@ -1,25 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>About me on Sergey Rodin</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in About me on Sergey Rodin</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Portfolio</title>
-      <link>http://localhost:1313/portfolio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/</guid>
-      <description>&lt;p&gt;I write documentation that helps people use software and developers build with it. These samples include help articles, integration guides, API and SDK references, and technical explainers.&lt;/p&gt;&#xA;&lt;p&gt;I focus on making complex products easier to understand and adopt, with documentation that stays accurate and maintainable as products grow.&lt;/p&gt;&#xA;&lt;h2 id=&#34;phantom&#34;&gt;Phantom&lt;/h2&gt;&#xA;&lt;h3 id=&#34;end-user-help-articles&#34;&gt;End-user help articles&lt;/h3&gt;&#xA;&lt;p&gt;Articles I&amp;rsquo;ve written for the &lt;a href=&#34;https://help.phantom.com/hc/en-us&#34;&gt;Phantom Help Center&lt;/a&gt;, covering everyday tasks and questions about wallet safety.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://help.phantom.com/hc/en-us/sections/44633337948179-Cash&#34;&gt;Cash article set&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://help.phantom.com/hc/en-us/articles/5487893286291-What-to-do-if-you-were-scammed&#34;&gt;I was scammed or my wallet was drained. What can I do?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://help.phantom.com/hc/en-us/articles/40156023225235-Check-a-token-s-contract-address-before-you-interact-with-it&#34;&gt;Check a token&amp;rsquo;s contract address before you interact with it&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://help.phantom.com/hc/en-us/articles/5985106844435-Swap-tokens-in-Phantom&#34;&gt;Swap tokens in Phantom&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://help.phantom.com/hc/en-us/articles/42292249388307-Trade-perps-in-Phantom-on-mobile&#34;&gt;Trade perps in Phantom on mobile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://help.phantom.com/hc/en-us/articles/44454103123731-Chat-with-other-traders-in-Phantom&#34;&gt;Chat with other traders in Phantom&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;developer-documentation&#34;&gt;Developer documentation&lt;/h3&gt;&#xA;&lt;p&gt;An overview and SDK documentation for developers working with Phantom Connect.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Resume</title>
-      <link>http://localhost:1313/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
-      <description>&lt;p&gt;I’m a senior technical writer with 10+ years of experience documenting complex software products, from end-user guides to API and SDK documentation. I also build the information architecture, standards, and workflows that help documentation grow with a product.&#xA;I work with product, design, engineering, and support to get documentation ready for launch and use feedback from users to improve it.&lt;/p&gt;&#xA;&lt;p&gt;AI tools help me update content efficiently, while I review the results for consistency with established style guides.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About me on Sergey Rodin</title><link>https://www.sergeyrodin.com/</link><description>Recent content in About me on Sergey Rodin</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://www.sergeyrodin.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Portfolio</title><link>https://www.sergeyrodin.com/portfolio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sergeyrodin.com/portfolio/</guid><description>&lt;p&gt;I write documentation that helps people use software and developers build with it. These samples include help articles, integration guides, API and SDK references, and technical explainers.&lt;/p&gt;
+&lt;p&gt;I focus on making complex products easier to understand and adopt, with documentation that stays accurate and maintainable as products grow.&lt;/p&gt;
+&lt;h2 id="phantom"&gt;Phantom&lt;/h2&gt;
+&lt;h3 id="end-user-help-articles"&gt;End-user help articles&lt;/h3&gt;
+&lt;p&gt;Articles I&amp;rsquo;ve written for the &lt;a href="https://help.phantom.com/hc/en-us"&gt;Phantom Help Center&lt;/a&gt;, covering everyday tasks and questions about wallet safety.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://help.phantom.com/hc/en-us/sections/44633337948179-Cash"&gt;Cash article set&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://help.phantom.com/hc/en-us/articles/5487893286291-What-to-do-if-you-were-scammed"&gt;I was scammed or my wallet was drained. What can I do?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://help.phantom.com/hc/en-us/articles/40156023225235-Check-a-token-s-contract-address-before-you-interact-with-it"&gt;Check a token&amp;rsquo;s contract address before you interact with it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://help.phantom.com/hc/en-us/articles/5985106844435-Swap-tokens-in-Phantom"&gt;Swap tokens in Phantom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://help.phantom.com/hc/en-us/articles/42292249388307-Trade-perps-in-Phantom-on-mobile"&gt;Trade perps in Phantom on mobile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://help.phantom.com/hc/en-us/articles/44454103123731-Chat-with-other-traders-in-Phantom"&gt;Chat with other traders in Phantom&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="developer-documentation"&gt;Developer documentation&lt;/h3&gt;
+&lt;p&gt;An overview and SDK documentation for developers working with Phantom Connect.&lt;/p&gt;</description></item><item><title>Resume</title><link>https://www.sergeyrodin.com/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sergeyrodin.com/resume/</guid><description>&lt;p&gt;I’m a senior technical writer with 10+ years of experience documenting complex software products, from end-user guides to API and SDK documentation. I also build the information architecture, standards, and workflows that help documentation grow with a product.
+I work with product, design, engineering, and support to get documentation ready for launch and use feedback from users to improve it.&lt;/p&gt;
+&lt;p&gt;AI tools help me update content efficiently, while I review the results for consistency with established style guides.&lt;/p&gt;</description></item></channel></rss>
