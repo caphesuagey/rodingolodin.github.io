@@ -74,6 +74,7 @@ a:hover,
 a:focus {
   color: var(--support-link-hover);
   background: transparent !important;
+  outline: none;
   text-decoration: underline;
 }
 
@@ -330,6 +331,8 @@ img {
 }
 
 .page-actions .dropdown-menu {
+  display: grid;
+  gap: 4px;
   position: absolute;
   top: calc(100% + 8px);
   right: 0;
